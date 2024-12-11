@@ -261,6 +261,7 @@ const priceAnalysis = {
   bins: 50
 };
 ```
+```
 import FirecrawlApp from '@mendable/firecrawl-js'
 import { z } from 'zod'
 // Initialize the FirecrawlApp with your API key
