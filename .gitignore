@@ -22,12 +22,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Project specific files
-avito_listings.json
-avito_prices_chart.png
-*.png
-*.jpg
-*.jpeg
 
 # Logs
 logs/

@@ -1,0 +1,5490 @@
+[
+  {
+    "title": "Для бизнеса",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Карьера в Авито",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Помощь",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Каталог автомобилей",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Каталог новостроек",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Польза",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Разместить объявление",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вход и регистрация",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Renault Megane 1.6 AT, 2012, 188 000 км",
+    "price_per_night": 820000,
+    "location": "Оренбургская обл., Оренбургский р-н, пос. Весенний",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Nissan Micra 1.2 AT, 2004, 240 000 км",
+    "price_per_night": 360000,
+    "location": "Воронежская обл., Острогожский р-н, Урывское сельское поселение, с. Урыв-Покровка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "LIFAN Breez (520) 1.6 MT, 2008, 73 297 км",
+    "price_per_night": 120000,
+    "location": "Тюменская обл., Тюменский р-н, д. Есаулова",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Собрание клубных домов West Garden",
+    "price_per_night": 22250000,
+    "location": "Москва, пр-т Генерала Дорохова, жилые дома",
+    "rating": 4.5,
+    "reviews": 120
+  },
+  {
+    "title": "ЖК «Квартал На Воде»",
+    "price_per_night": 9120000,
+    "location": "Москва, Юго-Восточный административный округ, район Печатники, микрорайон Курьяново",
+    "rating": 4,
+    "reviews": 85
+  },
+  {
+    "title": "Митинский лес",
+    "price_per_night": 7350000,
+    "location": "Москва, Митинский Лес, жилые дома",
+    "rating": 4.2,
+    "reviews": 95
+  },
+  {
+    "title": "ЖК «Клубный город на реке Primavera»",
+    "price_per_night": 22450000,
+    "location": "Москва, ш. Волоколамское, уч. Владение 71/12",
+    "rating": 4.3,
+    "reviews": 75
+  },
+  {
+    "title": "ЖК «Метрополия»",
+    "price_per_night": 14140000,
+    "location": "Москва, пр-т Волгоградский, вл. 32/3, 32/5",
+    "rating": 4.1,
+    "reviews": 60
+  },
+  {
+    "title": "ЖК «Среда на Кутузовском»",
+    "price_per_night": 10600000,
+    "location": "Москва, ул. Ивана Франко, ЖК «Среда на Кутузовском»",
+    "rating": 4.4,
+    "reviews": 50
+  },
+  {
+    "title": "Алтуфьевское 53",
+    "price_per_night": 7410000,
+    "location": "Москва, ш. Алтуфьевское, Алтуфьевское 53",
+    "rating": 4,
+    "reviews": 30
+  },
+  {
+    "title": "ЖК «Прокшино»",
+    "price_per_night": 7530000,
+    "location": "Москва, п. Сосенское, дер. Николо-Хованское, кв-л 26, жилые дома",
+    "rating": 4.2,
+    "reviews": 45
+  },
+  {
+    "title": "Никольские луга",
+    "price_per_night": 5740000,
+    "location": "Москва, ш. Варшавское, Никольские луга",
+    "rating": 4.3,
+    "reviews": 80
+  },
+  {
+    "title": "Волжский парк",
+    "price_per_night": 7600000,
+    "location": "Москва, Волжский Парк, корп. 1",
+    "rating": 4.1,
+    "reviews": 55
+  },
+  {
+    "title": "Роскошный квартал Life Time",
+    "price_per_night": 59040000,
+    "location": "Москва, ул. Сергея Макеева, вл. 11/9",
+    "rating": 4.5,
+    "reviews": 90
+  },
+  {
+    "title": "ЖК «LIFE Варшавская»",
+    "price_per_night": 15750000,
+    "location": "Москва, пр-д Каширский/2-й Котляковский пер./1-й Котляковский пер., жилые дома",
+    "rating": 4.2,
+    "reviews": 65
+  },
+  {
+    "title": "Квартал «ЗОРГЕ 9»",
+    "price_per_night": 13190000,
+    "location": "Москва, ул. Зорге, вл. 9",
+    "rating": 4.4,
+    "reviews": 40
+  },
+  {
+    "title": "ЖК «Legacy»",
+    "price_per_night": 28680000,
+    "location": "Москва, пр-т Наименование, вл. 30-Б",
+    "rating": 4.3,
+    "reviews": 70
+  },
+  {
+    "title": "ЖК «Бунинские кварталы»",
+    "price_per_night": 5760000,
+    "location": "Москва, п. Сосненское, д. Столбово, ЖК «Бунинские кварталы»",
+    "rating": 4,
+    "reviews": 25
+  },
+  {
+    "title": "ЖК «Квартал Домашний»",
+    "price_per_night": 9440000,
+    "location": "Москва, жилой комплекс Квартал Домашний, 1",
+    "rating": 4.1,
+    "reviews": 35
+  },
+  {
+    "title": "Для бизнеса",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Карьера в Авито",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Помощь",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Каталог автомобилей",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Каталог новостроек",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Польза",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Разместить объявление",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вход и регистрация",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Авито — сайт объявлений",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Авто",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Недвижимость",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Работа",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Услуги",
+    "price_per_night": 0,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 15 м², 2/5 эт.",
+    "price_per_night": 12000,
+    "location": "Йошкар-Ола",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кастрюля",
+    "price_per_night": 1000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вечернее платье PrettyLittleThing размер 40-42",
+    "price_per_night": 3515,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Отделочник",
+    "price_per_night": 2000,
+    "location": "Дубровка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Анорак куртка Reebok",
+    "price_per_night": 3000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Полусапоги женские осенние 39 кожа",
+    "price_per_night": 1500,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "iPhone 12, 128 ГБ",
+    "price_per_night": 24000,
+    "location": "Москва, Китай-город",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, > 30 м²",
+    "price_per_night": 5000000,
+    "location": "Иваново, р-н Советский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "realme C55, 6/128 ГБ",
+    "price_per_night": 8000,
+    "location": "Ноябрьск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик moncler мужской",
+    "price_per_night": 26000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Футболки оптом с нанесением печати",
+    "price_per_night": 658,
+    "location": "Брянск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Xbox 360 E",
+    "price_per_night": 6000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 32,2 м², 3/9 эт.",
+    "price_per_night": 3400000,
+    "location": "пос. Петровский, р-н Привокзальный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 24,1 м², 18/24 эт.",
+    "price_per_night": 6790000,
+    "location": "Санкт-Петербург, Лесная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Коробка с полезностями",
+    "price_per_night": 0,
+    "location": "Москва, Фонвизинская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сотрудник по кабельным коммуникациям",
+    "price_per_night": 90000,
+    "location": "Москва, Юго-Восточная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Платье нарядное",
+    "price_per_night": 800,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 85,5 м², 15/25 эт.",
+    "price_per_night": 19700000,
+    "location": "Кудрово, Улица Дыбенко",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик новый",
+    "price_per_night": 2150,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Мягкие игрушки ручной работы",
+    "price_per_night": 1100,
+    "location": "Челябинск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 16 м², 1 кровать",
+    "price_per_night": 1700,
+    "location": "Ижевск, р-н Октябрьский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ботильоны осень/зима 37р",
+    "price_per_night": 15000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Платье для девочки",
+    "price_per_night": 300,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ВАЗ (LADA) 2107 1.6 MT, 2005, 140 000 км",
+    "price_per_night": 85000,
+    "location": "Волгоград, р-н Дзержинский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Фреза для трубореза",
+    "price_per_night": 1600,
+    "location": "Городец",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ВАЗ (LADA) Priora 1.6 MT, 2011, 145 318 км",
+    "price_per_night": 365000,
+    "location": "Катайск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Собачка из СССР",
+    "price_per_night": 500,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ботинки moonboot",
+    "price_per_night": 10500,
+    "location": "Москва, Юго-Западная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пк игровой. 1660s/ R5 2600",
+    "price_per_night": 40000,
+    "location": "Саратов, р-н Фрунзенский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 95 м², 17/37 эт.",
+    "price_per_night": 140000,
+    "location": "Москва, Беговая",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Коляска 2в1 проходимая",
+    "price_per_night": 2500,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Теплоноситель для отопления пропиленгликоль",
+    "price_per_night": 1500,
+    "location": "Череповец, р-н Заягорбский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Лонсглив женский",
+    "price_per_night": 200,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Искусственная шуба под норку",
+    "price_per_night": 10000,
+    "location": "Казань, р-н Ново-Савиновский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Молодые петухи",
+    "price_per_night": 0,
+    "location": "Тим",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Угловой диван бу",
+    "price_per_night": 10000,
+    "location": "Энгельс",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Корпус для компьютера zalman z9",
+    "price_per_night": 2500,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Opel Astra GTC 1.8 MT, 2007, 223000 км",
+    "price_per_night": 310000,
+    "location": "Йошкар-Ола",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mitsubishi Outlander 2.4 CVT, 2011, 271530 км",
+    "price_per_night": 1120000,
+    "location": "Псков, р-н Центр",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ученик/жиловщика Вахта проживание питание",
+    "price_per_night": 4000,
+    "location": "Краснодар, р-н Центральный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дубайский шоколад",
+    "price_per_night": 900,
+    "location": "Тюмень, р-н Восточный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Lexus LX 5.7 AT, 2017, 115000 км",
+    "price_per_night": 11999999,
+    "location": "Донецк",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Стильный мужской браслет",
+    "price_per_night": 1300,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Обои в гостинную",
+    "price_per_night": 15,
+    "location": "Санкт-Петербург, Звёздная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mitsubishi Pajero Sport 2.5 AT, 2014, 200000 км",
+    "price_per_night": 1550000,
+    "location": "Санкт-Петербург, Нарвская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 18 м² в 3-к., 3/4 эт.",
+    "price_per_night": 20000,
+    "location": "Сочи, р-н Хостинский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mitsubishi Airtrek 2.4 AT, 2001, битый, 180000 км",
+    "price_per_night": 500000,
+    "location": "Красноярск, р-н Ленинский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Икра горбуши, 1 кг",
+    "price_per_night": 4000,
+    "location": "Красногорск, Красногорская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Боевая рубашка вкпо 3.0",
+    "price_per_night": 1000,
+    "location": "Камышин",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Аппарат",
+    "price_per_night": 3000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Промоутер в ТЦ Водный, только тем кто рядом",
+    "price_per_night": 200,
+    "location": "Москва, Водный стадион",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Audi RS6 4.0 AT, 2021, 35000 км",
+    "price_per_night": 17000000,
+    "location": "Видное",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "iPhone 12, 128 ГБ",
+    "price_per_night": 24000,
+    "location": "Москва, Китай-город",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Оптический фильтр на объектив",
+    "price_per_night": 1200,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Золотое кольцо с бриллиантом",
+    "price_per_night": 10000,
+    "location": "Северск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ford Explorer 3.5 AT, 2014, 135000 км",
+    "price_per_night": 1790000,
+    "location": "рп. Измайлово, Битца",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 15 м², 2/5 эт.",
+    "price_per_night": 12000,
+    "location": "Йошкар-Ола",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Часы apple watch 5 40 mm",
+    "price_per_night": 9500,
+    "location": "Новый Уренгой",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 185,8 м² на участке 6 сот.",
+    "price_per_night": 22500000,
+    "location": "д. Покров, Симферопольское шоссе, 45 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Vintage Drag Experimental Racers - Hot Wheels 100%",
+    "price_per_night": 3350,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Упаковщик на склад книг и канцтоваров/Не Вахта",
+    "price_per_night": 4180,
+    "location": "д. Демидово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дрель ударная blaucraft",
+    "price_per_night": 2500,
+    "location": "Калининград, р-н Ленинградский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Новый детский шезлонг в москве",
+    "price_per_night": 2000,
+    "location": "Москва, Алтуфьево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Volvo XC90 2.5 AT, 2007, 198 975 км",
+    "price_per_night": 1349000,
+    "location": "Москва, Зябликово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ВАЗ (LADA) 2114 Samara 1.5 MT, 2006, 254 545 км",
+    "price_per_night": 180000,
+    "location": "Армавир",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Самодельная машина",
+    "price_per_night": 1000000,
+    "location": "Нижний Новгород, Горьковская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Посуда",
+    "price_per_night": 500,
+    "location": "Новосибирск, Сибирская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Модель на дредокудри",
+    "price_per_night": 4500,
+    "location": "Тюмень, р-н Центральный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Видеокарта GeForce RTX3050 8Gb KFA2",
+    "price_per_night": 18490,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 45,4 м², 12/12 эт.",
+    "price_per_night": 12400000,
+    "location": "Москва, Планерная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик новый",
+    "price_per_night": 2150,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 85,5 м², 15/25 эт.",
+    "price_per_night": 19700000,
+    "location": "Кудрово, Улица Дыбенко",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ковры бу",
+    "price_per_night": 2000,
+    "location": "Краснодар, р-н Карасунский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota Mark II 2.5 MT, 1994, 225 000 км",
+    "price_per_night": 829000,
+    "location": "Красноярск, р-н Центральный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ВАЗ (LADA) 1111 Ока 0.7 MT, 2003, 60 000 км",
+    "price_per_night": 195000,
+    "location": "Волжский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Масло после депиляции",
+    "price_per_night": 250,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota RAV4 2.0 CVT, 2016, 99 047 км",
+    "price_per_night": 2699000,
+    "location": "Москва, Тютчевская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Искусственная шуба под норку",
+    "price_per_night": 10000,
+    "location": "Казань, р-н Ново-Савиновский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Растяжка в гамаках",
+    "price_per_night": 500,
+    "location": "Сестрорецк, р-н Курортный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 25 м², 4/21 эт.",
+    "price_per_night": 60000,
+    "location": "пос. Коммунарка, Ольховая",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кеды vans",
+    "price_per_night": 1900,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Колокольчик поддужный",
+    "price_per_night": 5300,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Бронижелет Бр5, плиты, пояс, пах мультикам",
+    "price_per_night": 59000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, > 30 м²",
+    "price_per_night": 15000,
+    "location": "Михайловск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Угловой диван бу",
+    "price_per_night": 10000,
+    "location": "Энгельс",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Листовки, флаеры, наклейки любой формы",
+    "price_per_night": 1,
+    "location": "Монино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ВАЗ (LADA) 4x4 (Нива) 1.7 MT, 1999, 250 000 км",
+    "price_per_night": 250000,
+    "location": "Самара, Безымянка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Lego 9515 Star Wars Крейсер «Зловещий»",
+    "price_per_night": 10000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "BMW 5 серия 2.5 MT, 1996, 580 000 км",
+    "price_per_night": 650000,
+    "location": "Санкт-Петербург, Лесная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Штекер питания постоянного тока 3,5x1,35",
+    "price_per_night": 10,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 48 м², 2 кровати",
+    "price_per_night": 2500,
+    "location": "Казань, Козья Слобода",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Колонка jbl Flip 5",
+    "price_per_night": 4000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 60 м², 5/17 эт.",
+    "price_per_night": 65000,
+    "location": "Москва, Пятницкое шоссе",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вечернее платье PrettyLittleThing размер 40-42",
+    "price_per_night": 3515,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Прогулочная коляска",
+    "price_per_night": 4500,
+    "location": "Голицыно",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вафельница bork G702",
+    "price_per_night": 35000,
+    "location": "Казань, Площадь Тукая",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Стулья",
+    "price_per_night": 500,
+    "location": "д. Малое Карлино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Мебель для салона красоты",
+    "price_per_night": 1,
+    "location": "Усолье-Сибирское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ВАЗ (LADA) 4x4 (Нива) 1.7 MT, 1999, 250 000 км",
+    "price_per_night": 250000,
+    "location": "Самара, Безымянка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Орех",
+    "price_per_night": 1000,
+    "location": "Владикавказ, р-н Северо-Западный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota Camry 2.4 AT, 2010, 270 496 км",
+    "price_per_night": 1345000,
+    "location": "Екатеринбург, Проспект Космонавтов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пылесборник бумажный к пылесосу Filtero PHI 02",
+    "price_per_night": 40,
+    "location": "Нижний Тагил, р-н Тагилстроевский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комплект шапка и шарф женские",
+    "price_per_night": 1500,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Мягкие игрушки ручной работы",
+    "price_per_night": 1100,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Молодые петухи",
+    "price_per_night": 0,
+    "location": "Тим",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Военно-медицинский юрист",
+    "price_per_night": 0,
+    "location": "Самара, Алабинская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Chevrolet Tahoe 6.2 AT, 2016, 192 000 км",
+    "price_per_night": 2935000,
+    "location": "Москва, Бабушкинская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 45,4 м², 12/12 эт.",
+    "price_per_night": 12400000,
+    "location": "Москва, Планерная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Шумоизоляция автомобиля",
+    "price_per_night": 999,
+    "location": "Екатеринбург, Проспект Космонавтов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Икра горбуши, 1 кг",
+    "price_per_night": 4000,
+    "location": "Красногорск, Красногорская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "iPhone 12, 128 ГБ",
+    "price_per_night": 24000,
+    "location": "Москва, Китай-город",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пк игровой. 1660s/ R5 2600",
+    "price_per_night": 40000,
+    "location": "Саратов, р-н Фрунзенский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Холодильник гарантия доставка по области",
+    "price_per_night": 10999,
+    "location": "Черняховск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Мотоцикл Bajaj Dominar 400",
+    "price_per_night": 430000,
+    "location": "Ростов-на-Дону, р-н Первомайский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota Fortuner 2.8 AT, 2018, 110 882 км",
+    "price_per_night": 4500000,
+    "location": "Нижний Новгород, р-н Нижегородский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Электро обогреватель бу",
+    "price_per_night": 3000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 18 м² в 3-к., 3/4 эт.",
+    "price_per_night": 20000,
+    "location": "Сочи, р-н Хостинский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Куры бройлеры тушки мясо доставка",
+    "price_per_night": 10,
+    "location": "Невинномысск, р-н Старый город",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ВАЗ (LADA) Priora 1.6 MT, 2015, 249 508 км",
+    "price_per_night": 670000,
+    "location": "Москва, Отрадное",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mitsubishi Outlander 2.4 CVT, 2017, 143 787 км",
+    "price_per_night": 2149000,
+    "location": "Москва, Москворечье",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Лодочный мотор Yamaha 40xws",
+    "price_per_night": 360000,
+    "location": "Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "CF moto",
+    "price_per_night": 1230000,
+    "location": "Пушкино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota Mark II 2.5 MT, 1993, 250 000 км",
+    "price_per_night": 580000,
+    "location": "Ногинск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Volkswagen Golf 2.0 MT, 2009, 190 000 км",
+    "price_per_night": 710000,
+    "location": "Москва, Сходненская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ГАЗ ГАЗель 33023 2.7 MT, 2018, 83 000 км",
+    "price_per_night": 1775000,
+    "location": "Москва, Новогиреево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Audi 100 2.8 AT, 1994, 362 000 км",
+    "price_per_night": 350000,
+    "location": "Солнечногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Hyundai Solaris 1.6 AT, 2024",
+    "price_per_night": 2400000,
+    "location": "Москва, Тёплый стан",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Эндуро Gr 7",
+    "price_per_night": 220000,
+    "location": "Дзержинский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Jaguar X-type 3.0 AT, 2002, 300 000 км",
+    "price_per_night": 465000,
+    "location": "Москва, Сходненская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mercedes-Benz S-класс 3.0 AT, 2018, 82 000 км",
+    "price_per_night": 6500000,
+    "location": "Москва, Сокол",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Suzuki Grand Vitara 2.4 AT, 2011, 173 000 км",
+    "price_per_night": 1450000,
+    "location": "Жуковский, Отдых",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Renault T-Series, 2019",
+    "price_per_night": 7700000,
+    "location": "Долгопрудный, Долгопрудная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mitsubishi Eclipse 2.0 AT, 1999, 192 360 км",
+    "price_per_night": 850000,
+    "location": "Москва, Юго-Западная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Hyundai Sonata 2.5 AT, 2021, 7 147 км",
+    "price_per_night": 3197000,
+    "location": "Москва, Немчиновка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Renault Grand Scenic 1.5 MT, 2010, 285 000 км",
+    "price_per_night": 1000000,
+    "location": "Сергиев Посад",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "BMW X5 3.0 AT, 2016, 114 369 км",
+    "price_per_night": 4499000,
+    "location": "Москва, Тютчевская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota RAV4 2.0 CVT, 2016, 99 047 км",
+    "price_per_night": 2699000,
+    "location": "Москва, Тютчевская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Voyah Dream AT, 2023",
+    "price_per_night": 7990000,
+    "location": "Москва, Тульская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Nissan Wingroad 1.5 AT, 2008, 170 000 км",
+    "price_per_night": 410000,
+    "location": "Щербинка, Щербинка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mazda 3 2.0 MT, 2006, 260 000 км",
+    "price_per_night": 330000,
+    "location": "Дзержинский, Котельники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Chery IndiS (S18D) 1.3 MT, 2013, 81 000 км",
+    "price_per_night": 470000,
+    "location": "Орехово-Зуево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota Avensis 1.8 MT, 2007, 215 000 км",
+    "price_per_night": 480000,
+    "location": "Дзержинский, Котельники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Mitsubishi Outlander 2.4 CVT, 2008, 263 500 км",
+    "price_per_night": 1170000,
+    "location": "Мещерино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "BMW X3 2.0 AT, 2022, 16 702 км",
+    "price_per_night": 6400000,
+    "location": "Щербинка, Щербинка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Toyota Prius PHV 1.8 CVT, 2018, 153 500 км",
+    "price_per_night": 2050000,
+    "location": "Лыткарино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Skoda Octavia 1.4 AMT, 2013, 125 971 км",
+    "price_per_night": 1313000,
+    "location": "Коломна",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "EXEED VX 2.0 AT, 2023, 38 695 км",
+    "price_per_night": 3150000,
+    "location": "Москва, Медведково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ГАЗ 3102 Волга 2.4 MT, 1997, 120 000 км",
+    "price_per_night": 120000,
+    "location": "Москва, Алма-Атинская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 22,1 м² на участке 5 сот.",
+    "price_per_night": 5700000,
+    "location": "1-й Южный тупик, 7, дп. Удельная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 73 м² на участке 5 сот.",
+    "price_per_night": 5200000,
+    "location": "мкр-н Купавна, Железнодорожная ул., 20, Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Коттедж 171 м² на участке 5,5 сот.",
+    "price_per_night": 13000000,
+    "location": "Валентиновская ул., дп. Загорянский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 56,2 м² на участке 6 сот.",
+    "price_per_night": 11499000,
+    "location": "ул. Свердлова, 30, дп. Загорянский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 55 м² на участке 5 сот.",
+    "price_per_night": 35000,
+    "location": "Тихая ул., Серпухов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 120 м² на участке 6 сот.",
+    "price_per_night": 10000,
+    "location": "Прогулочная аллея, садовое товарищество Наука-17",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Коттедж 150 м² на участке 30 сот.",
+    "price_per_night": 120000,
+    "location": "вл1, д. Лапшинка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 35 м² на участке 6 сот.",
+    "price_per_night": 50000,
+    "location": "мкр-н Опалиха, Новая Московская ул., Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 39 м², 2 кровати",
+    "price_per_night": 7500,
+    "location": "Москва, Угрешская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "10-к. и более коттедж, 1284 м²",
+    "price_per_night": 29000,
+    "location": "Домодедово, Новокаширское шоссе, 24 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 12 сот. (ИЖС)",
+    "price_per_night": 650000,
+    "location": "д. Тетерино, Минское шоссе, 89 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 140 м² на участке 7 сот.",
+    "price_per_night": 14990000,
+    "location": "д. Тяжино, Рязанское шоссе, 31 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 5 сот. (ИЖС)",
+    "price_per_night": 800000,
+    "location": "д. Зверково, Дмитровское шоссе, 53 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 40 м², 15/17 эт.",
+    "price_per_night": 40000,
+    "location": "Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Апартаменты-студия, 20 м², 3/6 эт.",
+    "price_per_night": 35000,
+    "location": "Москва, Курьяново",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Коттедж 167,1 м² на участке 8 сот.",
+    "price_per_night": 24800000,
+    "location": "Истра, Пятницкое шоссе, 32 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 1150 м² на участке 20 сот.",
+    "price_per_night": 120000000,
+    "location": "коттеджный пос. Старый Свет, Волоколамское шоссе, 27 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 15 м² в 3-к., 4/9 эт.",
+    "price_per_night": 15500,
+    "location": "Москва, Солнцево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 45 м², 4/5 эт.",
+    "price_per_night": 5800000,
+    "location": "рп. Ильинский, Ильинская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 43,5 м², 9/9 эт.",
+    "price_per_night": 6500000,
+    "location": "Люберцы, Люберцы",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, > 30 м²",
+    "price_per_night": 800000,
+    "location": "Щёлково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 145 м² на участке 10,4 сот.",
+    "price_per_night": 15000000,
+    "location": "д. Ватутинки, НП Искра-4, Калужское шоссе, 15 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 37,9 м², 5/17 эт.",
+    "price_per_night": 50000,
+    "location": "Москва, Грачёвская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 45 м², 9/9 эт.",
+    "price_per_night": 11300000,
+    "location": "Москва, Покровское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 90 м² на участке 10 сот.",
+    "price_per_night": 8500000,
+    "location": "коттеджный пос. Искона Парк, Минское шоссе, 84 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 45 м², 3/9 эт.",
+    "price_per_night": 65000,
+    "location": "Москва, Алтуфьево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 40,3 м², 1/5 эт.",
+    "price_per_night": 6700000,
+    "location": "Королёв",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 34 м², 3/4 эт.",
+    "price_per_night": 6000000,
+    "location": "д. Брёхово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 20 м², 10/33 эт.",
+    "price_per_night": 60000,
+    "location": "Москва, Водный стадион",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 24 м², 3/12 эт.",
+    "price_per_night": 19000,
+    "location": "д. Гребнево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "4-к. квартира, 137 м², 8/8 эт.",
+    "price_per_night": 90000000,
+    "location": "Москва, Фили",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Коттедж 135 м² на участке 6 сот.",
+    "price_per_night": 24900000,
+    "location": "пос. Государственного племенного завода Константиново, коттеджный пос. Юсупово Вилладж, Симферопольское шоссе, 19 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 63 м², 2/5 эт.",
+    "price_per_night": 5500000,
+    "location": "Луховицы",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 18 сот. (СНТ, ДНП)",
+    "price_per_night": 25000000,
+    "location": "Голицыно, Можайское шоссе, 28 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 120 м² на участке 8 сот.",
+    "price_per_night": 5600000,
+    "location": "ТСН СНТ Михайлово, Минское шоссе, 80 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 32,9 м², 1/3 эт.",
+    "price_per_night": 5000000,
+    "location": "д. Мотяково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 18 м², 1 кровать",
+    "price_per_night": 3500,
+    "location": "Москва, Варшавская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 53 м², 17/30 эт.",
+    "price_per_night": 18800000,
+    "location": "Москва, Давыдково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Упаковщик на склад книг и канцтоваров/Не Вахта",
+    "price_per_night": 4180,
+    "location": "Зеленоград, Зеленоград-Крюково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вахта. Дорожный рабочий",
+    "price_per_night": 100000,
+    "location": "Балашиха, Ольгино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Скотник доярка на ферму вахтой",
+    "price_per_night": 144000,
+    "location": "пос. Развилка, Зябликово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дневной уборщик в бургерную",
+    "price_per_night": 82000,
+    "location": "Мытищи",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Уборщик/уборщица",
+    "price_per_night": 45000,
+    "location": "Москва, Бабушкинская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Курьер с личным автомобилем",
+    "price_per_night": 5500,
+    "location": "Наро-Фоминск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Администратор компьютерного клуба",
+    "price_per_night": 0,
+    "location": "Лыткарино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Бариста-кассир в кафе",
+    "price_per_night": 75000,
+    "location": "Москва, Моссельмаш",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Каменщик",
+    "price_per_night": 80000,
+    "location": "Москва, Серп и Молот",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Курьер с личным автомобилем",
+    "price_per_night": 5500,
+    "location": "Лобня, Лобня",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Оператор колл центра удаленно",
+    "price_per_night": 55000,
+    "location": "Москва, Китай-город",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Требуется бухгалтер с обучением",
+    "price_per_night": 15900,
+    "location": "Мытищи",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Курьер с личным автомобилем",
+    "price_per_night": 5500,
+    "location": "Королёв",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Графический дизайнер",
+    "price_per_night": 0,
+    "location": "Москва, Щёлковская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Менеджер по продажам B2B банковских продуктов",
+    "price_per_night": 80000,
+    "location": "Москва, Домодедовская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Маляр Универсал Работа в Пик Ремонт",
+    "price_per_night": 82300,
+    "location": "Москва, Лихоборы",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Повар/Кассир (без опыта)",
+    "price_per_night": 60000,
+    "location": "Москва, Алма-Атинская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Автомойщик с проживанием",
+    "price_per_night": 80000,
+    "location": "Москва, Лефортово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Курьер с личным автомобилем",
+    "price_per_night": 5500,
+    "location": "Коломна",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Секретарь нотариуса",
+    "price_per_night": 20000,
+    "location": "Москва, Люблино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Мастер ногтевого сервиса",
+    "price_per_night": 50000,
+    "location": "Троицк, р-н Троицк",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Парикмахер универсал,парикмахер",
+    "price_per_night": 25000,
+    "location": "Серпухов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Требуется бухгалтер с обучением",
+    "price_per_night": 15900,
+    "location": "Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Подработка до нг. Без опыта, 16+ Курьер пеший/вело",
+    "price_per_night": 9000,
+    "location": "Красногорск, Красногорская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дворник с ежедневной оплатой",
+    "price_per_night": 3500,
+    "location": "Москва, Электрозаводская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Курьер с личным автомобилем",
+    "price_per_night": 5500,
+    "location": "Зарайск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Охранник (д. Черная грязь)",
+    "price_per_night": 70000,
+    "location": "д. Пикино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Водитель на склад категория В оплата ежедневно",
+    "price_per_night": 9000,
+    "location": "Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Курьер с личным автомобилем",
+    "price_per_night": 5500,
+    "location": "Дубна",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Начинающий фотограф",
+    "price_per_night": 100,
+    "location": "Клин",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Приготовлю еду, встречу ребёнка из школы и накормл",
+    "price_per_night": 1000,
+    "location": "Москва, Яхромская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Укладка волос бесплатно",
+    "price_per_night": 0,
+    "location": "Москва, Улица 1905 года",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ремонт телевизоров с гарантией",
+    "price_per_night": 500,
+    "location": "Москва, Полежаевская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Грузоперевозки фура,газель межгород.5 10 20 тонн",
+    "price_per_night": 21,
+    "location": "Москва, Нагорная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Прическа для художественной гимнастики",
+    "price_per_night": 2000,
+    "location": "Москва, Строгино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Нормоконтроль техническое документации",
+    "price_per_night": 1500,
+    "location": "Москва, Охотный ряд",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Фотосъемка для Wildberries и Озон",
+    "price_per_night": 500,
+    "location": "Пушкино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Классический массаж тела",
+    "price_per_night": 7000,
+    "location": "Красногорск, Опалиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Репетитор для начальных классов",
+    "price_per_night": 0,
+    "location": "д. Скрылья",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ищу мастера маникюра в студию",
+    "price_per_night": 4000,
+    "location": "Москва, Солнцево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Автоняня сопровождение детей",
+    "price_per_night": 250,
+    "location": "Зеленоград, Зеленоград-Крюково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Мебель на заказ от производителя",
+    "price_per_night": 1000,
+    "location": "Москва, Спортивная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комплексный детейлинг",
+    "price_per_night": 2800,
+    "location": "Москва, Павелецкая",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Юридическая помощь жкх",
+    "price_per_night": 1000,
+    "location": "Пушкино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Листовки, флаеры, наклейки любой формы",
+    "price_per_night": 1,
+    "location": "Монино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Автоподбор BMW Ауди Мерседес",
+    "price_per_night": 5000,
+    "location": "Щербинка, Щербинка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ногтевой сервис",
+    "price_per_night": 2000,
+    "location": "Москва, Москва-Товарная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Озеленение и благоустройство участка / ландшафтный",
+    "price_per_night": 500,
+    "location": "Реутов, Реутов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ремонт ходовой Nissan Almera Classic Качественно",
+    "price_per_night": 870,
+    "location": "Москва, Улица академика Янгеля",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дома из бруса. Дом из бруса под ключ",
+    "price_per_night": 1600000,
+    "location": "Дмитров",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Оклейка авто пленкой / Бронирование / Детайлинг",
+    "price_per_night": 20000,
+    "location": "Москва, Стахановская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ламинирование ресниц и бровей",
+    "price_per_night": 1400,
+    "location": "Москва, Филёвский парк",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Модель на подтяжку и омоложение лица",
+    "price_per_night": 0,
+    "location": "Москва, Менделеевская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Навес из поликарбоната / черепицы / профлиста",
+    "price_per_night": 4000,
+    "location": "Зеленоград, Зеленоград-Крюково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Установка кофейных автоматов и снековых аппаратов",
+    "price_per_night": 1,
+    "location": "Апрелевка, Апрелевка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вяжу на заказ свитер",
+    "price_per_night": 4000,
+    "location": "Москва, Багратионовская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Широкоформатное сканирование А0, А1, А2, А3, А4",
+    "price_per_night": 40,
+    "location": "Москва, Молодёжная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Конструирование, моделирование",
+    "price_per_night": 500,
+    "location": "Москва, Калужская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кузовной ремонт сварка покраска автомобиля",
+    "price_per_night": 15000,
+    "location": "Москва, Новогиреево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кроссовки Nike Air Max 90 Leather оригинал",
+    "price_per_night": 16200,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Nike Air Force 1’07 Black Оригинал",
+    "price_per_night": 7115,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ботинки Nike Air Approach (Оригинал)",
+    "price_per_night": 6300,
+    "location": "Пермь",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Nike air force 1 оригинал",
+    "price_per_night": 8549,
+    "location": "Екатеринбург",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Оригинал кроссовки new balance 237 чёрные",
+    "price_per_night": 13110,
+    "location": "Новороссийск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кроссовки Asics Gel-Venture 8 оригинал",
+    "price_per_night": 8100,
+    "location": "Воронеж",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кроссовки Air Jordan 5 Retro 'Top 3'",
+    "price_per_night": 13410,
+    "location": "Воронеж",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ботинки трекинговые Adidas terrex p. 41",
+    "price_per_night": 9900,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кроссовки New balance u574 оригинал зима",
+    "price_per_night": 12555,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Adidas Response CL us 9; Оригинальные кроссовки",
+    "price_per_night": 10350,
+    "location": "Ростов-на-Дону",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик женский длинный",
+    "price_per_night": 1045,
+    "location": "Северодвинск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик черный новый",
+    "price_per_night": 1710,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик женский зимний 46-48-50-52-54",
+    "price_per_night": 2511,
+    "location": "Котельники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик зимний женский 56 58 размер",
+    "price_per_night": 1275,
+    "location": "Казань",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Куртка женская зимняя 42-50",
+    "price_per_night": 2421,
+    "location": "Котельники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик женский Zara type",
+    "price_per_night": 594,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Плащ-пальто женское евро-зима",
+    "price_per_night": 1900,
+    "location": "Санкт-Петербург",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик зимний женский",
+    "price_per_night": 855,
+    "location": "Сухой Лог",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пуховик женский",
+    "price_per_night": 3325,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пальто женское зимнее 60/62",
+    "price_per_night": 2550,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Аккумуляторный бесщеточныц дрель-шуруповерт dewalt",
+    "price_per_night": 24000,
+    "location": "Балашиха, Железнодорожная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кухня белая в наличии",
+    "price_per_night": 19000,
+    "location": "Москва, ВДНХ",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Привлекательные формы: ковер 2х3",
+    "price_per_night": 12356,
+    "location": "Москва, Тёплый стан",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ацетилен газ болон",
+    "price_per_night": 5000,
+    "location": "рп. Быково, Быково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Печь камин",
+    "price_per_night": 41990,
+    "location": "Кубинка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Креветка азовская вареная",
+    "price_per_night": 450,
+    "location": "Москва, Ботанический сад",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Шлифмашина Bosch PEX 300 AE",
+    "price_per_night": 10990,
+    "location": "Москва, Курская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Стружка с доставкой",
+    "price_per_night": 165,
+    "location": "Клин",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кирпич ручной формовки",
+    "price_per_night": 30,
+    "location": "Электросталь",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "В наличии стол",
+    "price_per_night": 18000,
+    "location": "Щёлково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Перегородки для душа на заказ",
+    "price_per_night": 61000,
+    "location": "Москва, Белорусская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Холодильник бу",
+    "price_per_night": 6400,
+    "location": "пос. Развилка, Зябликово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Бензопила stihl 025",
+    "price_per_night": 8000,
+    "location": "Москва, Строгино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Полировальная машина для автомобилей",
+    "price_per_night": 4500,
+    "location": "Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Диван угловой раскладной с пуфом 325, новый",
+    "price_per_night": 129000,
+    "location": "Москва, Театральная",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Холодильная витрина Vete kud lux 90",
+    "price_per_night": 100000,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сушилка для столовых приборов",
+    "price_per_night": 85,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пихта нордмана",
+    "price_per_night": 8990,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Письменный стол 160х80х78 из массива дуба",
+    "price_per_night": 114000,
+    "location": "Москва, Зюзино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сервиз столовый Незабудки СССР предметы",
+    "price_per_night": 1500,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Емкости для воды от 3 000 литров",
+    "price_per_night": 32000,
+    "location": "с. Немчиновка, Немчиновка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Шторы IKEA",
+    "price_per_night": 3400,
+    "location": "Мытищи",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комод IKEA",
+    "price_per_night": 1900,
+    "location": "Москва, Давыдково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Матрас 160х200 бу",
+    "price_per_night": 8000,
+    "location": "пос. Коммунарка, Потапово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Раковина на стиральную машинку",
+    "price_per_night": 5000,
+    "location": "Москва, Университет",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Диспенсер для воды",
+    "price_per_night": 540,
+    "location": "",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Хлорофитум хохлатый",
+    "price_per_night": 400,
+    "location": "Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Набор тарелок новый",
+    "price_per_night": 900,
+    "location": "Раменское, Раменское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Угловой диван бу moon",
+    "price_per_night": 27000,
+    "location": "Москва, Стахановская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Итальянский комод, массив. Cavio",
+    "price_per_night": 120000,
+    "location": "Москва, Проспект Вернадского",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "GPS-трекер брелок (локатор MiTag)",
+    "price_per_night": 1500,
+    "location": "Москва, Новослободская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Масло моторное",
+    "price_per_night": 25,
+    "location": "Зеленоград",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Колеса для грузовых авто доставка 215 R20 boto BT-168",
+    "price_per_night": 0,
+    "location": "Москва, Охотный ряд",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Солярка дизельное топливо Евро 5 сорт С",
+    "price_per_night": 55,
+    "location": "пос. Железнодорожный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Моторы,генераторы,форсунки и многое другое",
+    "price_per_night": 1,
+    "location": "Москва, Красный Строитель",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Колеса на Ford Focus",
+    "price_per_night": 20000,
+    "location": "Дмитров",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Докатка VAG Audi A8 R19",
+    "price_per_night": 11000,
+    "location": "Москва, Лухмановская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Литые диски r19",
+    "price_per_night": 22000,
+    "location": "Троицк, р-н Троицк",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сцепление в сборе Stels ATV 196MS-1601002",
+    "price_per_night": 16000,
+    "location": "Королёв",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Диз.топливо Евро-5 сорт Е/зимнее диз.топливо",
+    "price_per_night": 46,
+    "location": "Люберцы, Люберцы",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Воздуховод радиатора левый BMW 3 серия F30/F31 33",
+    "price_per_night": 1400,
+    "location": "Москва, Бибирево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Перчатки Klim Inversion Glove Black - Fiery Red LG",
+    "price_per_night": 9000,
+    "location": "Мытищи, Медведково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Навигатор Garmin Drive 61 Central Europe LMT-S",
+    "price_per_night": 6500,
+    "location": "Москва, Багратионовская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Подсветка номера Mazda Premacy (cwefw)",
+    "price_per_night": 450,
+    "location": "Москва, Охотный ряд",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Бампер задний Mercedes-Benz E-Class W211 2002–2009",
+    "price_per_night": 11000,
+    "location": "Москва, Моссельмаш",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Land Rover АКПП Range Rover Evoque 2011 LR079450",
+    "price_per_night": 83000,
+    "location": "Москва, Депо",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Глушитель банка Yamaha Aerox",
+    "price_per_night": 5500,
+    "location": "Москва, Царицыно",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Шины",
+    "price_per_night": 4000,
+    "location": "Москва, Окская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Радарный датчик дистроник Мерседес",
+    "price_per_night": 15000,
+    "location": "Москва, Каширская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Gps трекер для авто",
+    "price_per_night": 3499,
+    "location": "Москва, Охотный ряд",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Блокиратор рулевого вала Гарант Блок Люкс 040.X/f",
+    "price_per_night": 10500,
+    "location": "Реутов, Реутов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Магнитный GPS трекер TK star",
+    "price_per_night": 4000,
+    "location": "Долгопрудный, Водники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ноутбук ThinkPad 16 ram + 512 SSD",
+    "price_per_night": 44415,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ноутбук крутой для игр. Современный, мощь",
+    "price_per_night": 49999,
+    "location": "Краснодар",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "MacBook Pro 16 M4 Pro 24GB, 512GB Black",
+    "price_per_night": 80000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Игровой ноутбук Dell G7 7790 17/2060RTX/256Gb/1Tb",
+    "price_per_night": 45600,
+    "location": "Санкт-Петербург",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ноутбук MSI Sword 15 A12UE-487XRU",
+    "price_per_night": 66490,
+    "location": "Екатеринбург",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Игровой Core i7-8750H GTX 1060 8/1128",
+    "price_per_night": 33999,
+    "location": "Казань",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Macbook Air M1 16gb 256gb",
+    "price_per_night": 58500,
+    "location": "Одинцово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Игровой ноутбук msi",
+    "price_per_night": 44000,
+    "location": "рп. Южный",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Игровой ноутбук Asus: RTX 2060 - Ryzen 7",
+    "price_per_night": 42750,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Офисный ноутбук новый",
+    "price_per_night": 33250,
+    "location": "Красноярск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Датчик расхода топлива Lowrance Fuel Flow Sensor",
+    "price_per_night": 31990,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 331
+  },
+  {
+    "title": "Garmin Panoptix LiveScope Plus LVS34 + GLS10",
+    "price_per_night": 189990,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 331
+  },
+  {
+    "title": "Lowrance elite 7 fs",
+    "price_per_night": 109900,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 331
+  },
+  {
+    "title": "Lowrance Fuel Data Manager",
+    "price_per_night": 18400,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 331
+  },
+  {
+    "title": "Ротатор KazanTarget v.2.2 для датчика эхолота",
+    "price_per_night": 170000,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 331
+  },
+  {
+    "title": "Цифровое пианино Yamaha P45 / P145",
+    "price_per_night": 66700,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 69
+  },
+  {
+    "title": "Аппаратура управления для fpv квадрокоптера",
+    "price_per_night": 4000,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 364
+  },
+  {
+    "title": "Струны для электрогитары 10-60 Magma Strings GE230",
+    "price_per_night": 699,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 364
+  },
+  {
+    "title": "Алиса в Зазеркалье. Худ. Г. Калиновский",
+    "price_per_night": 1800,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Старинные иконы. Св. Анна Кашинская",
+    "price_per_night": 45000,
+    "location": "Клин",
+    "rating": 5,
+    "reviews": 89
+  },
+  {
+    "title": "Пойми деньги и деньги поймут тебя\" Всеслав Соло",
+    "price_per_night": 999,
+    "location": "Ногинск",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Книга Дворянин философ",
+    "price_per_night": 425,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Жестяная банка из под чая Richard",
+    "price_per_night": 150,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Чехол для удочек",
+    "price_per_night": 2500,
+    "location": "Балашиха",
+    "rating": 5,
+    "reviews": 17
+  },
+  {
+    "title": "Двойник запада",
+    "price_per_night": 600,
+    "location": "Коммунарка",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Окружающий мир.Дни недели.Развитие речи.3-5 лет",
+    "price_per_night": 200,
+    "location": "Королев",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Ганзбург В мире застывших звуков 1977 г",
+    "price_per_night": 100,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Скамейка для пианиста tempo Turris 127/MM",
+    "price_per_night": 5661,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Klima Фарфоровые статуэтки черепах Франция",
+    "price_per_night": 2000,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Рюкзак Wilson US open 2024",
+    "price_per_night": 9850,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Банкноты на обмен",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Горнолыжный костюм женский 48 50 размер екатеринбу",
+    "price_per_night": 28000,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Мертвые души книга",
+    "price_per_night": 100,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Вышивка крестом",
+    "price_per_night": 14900,
+    "location": "Подольск",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Конфетница Италия латунь",
+    "price_per_night": 3800,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Кейс для Тамагочи Smart/Uni, жёлтый",
+    "price_per_night": 1076,
+    "location": "Красногорск",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Книга история российского государства",
+    "price_per_night": 3200,
+    "location": "Сергиев Посад",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Ножны для ножа",
+    "price_per_night": 200,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Айдинг-гюндер",
+    "price_per_night": 15000,
+    "location": "Химки",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Книга \"Правила поведения\"",
+    "price_per_night": 190,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "С. Лукьяненко. Ночной дозор. Сумеречный дозор",
+    "price_per_night": 120,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Физиология Человека: Атлас-Раскраска",
+    "price_per_night": 940,
+    "location": "Химки",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Журналы Esquire",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Игра монополия на немецком языке новая",
+    "price_per_night": 4900,
+    "location": "Подольск",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Термобрюки (лосины) для фигурного катания XL",
+    "price_per_night": 1800,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Сувениры из разных стран",
+    "price_per_night": 300,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Настольный аэрохоккей",
+    "price_per_night": 5000,
+    "location": "Мытищи",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Журналы Burda",
+    "price_per_night": 900,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "История Христианской Церкви. Смирнов Е. И",
+    "price_per_night": 600,
+    "location": "Сергиев Посад",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Катушка рыболовная Kaida 4000",
+    "price_per_night": 690,
+    "location": "Электросталь",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Zetrix Hell Hound Dark Blood - все модели",
+    "price_per_night": 24000,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Детективы-бестселлеры (Герритсен, Браун, Гришем)",
+    "price_per_night": 322,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Старинная картина",
+    "price_per_night": 100000,
+    "location": "Одинцово",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Шоссейный велосипед B'Twin Triban 100",
+    "price_per_night": 39000,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Футбольные бутсы Nike 35,5 р-р",
+    "price_per_night": 1500,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Книга \"черный квадрат\" Казимир Малевич",
+    "price_per_night": 150,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Набор для барбекю",
+    "price_per_night": 2500,
+    "location": "Котельники",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Гремящий дым. Семён Узин",
+    "price_per_night": 300,
+    "location": "Москва",
+    "rating": 5,
+    "reviews": 300
+  },
+  {
+    "title": "Кошечка Соня ищет семью",
+    "price_per_night": 0,
+    "location": "Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Помпа (насос) для аквариума Hailea HX-6530",
+    "price_per_night": 500,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Йоркширский терьер щенок",
+    "price_per_night": 50,
+    "location": "Мосрентген",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Шуршалки для собак",
+    "price_per_night": 1200,
+    "location": "Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Стружка в мешках с доставкой",
+    "price_per_night": 165,
+    "location": "Орехово-Зуево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сирийские хомяки",
+    "price_per_night": 300,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Щенки цвергшнауцера",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Корм",
+    "price_per_night": 2500,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Очаровательный котик",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Лежанка Катсу Новая",
+    "price_per_night": 2200,
+    "location": "Ногинск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Роял Канин для собак и кошек Бридерные мешки",
+    "price_per_night": 7676,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Криптокорина Нури рапродажа",
+    "price_per_night": 100,
+    "location": "Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комбинезон для собаки",
+    "price_per_night": 300,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Консервы для кастрированных котов",
+    "price_per_night": 1600,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Попоны послеоперационные для собак размер №4",
+    "price_per_night": 350,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Рулетка Flexi Comfort M",
+    "price_per_night": 1200,
+    "location": "Мытищи",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кошечка в добрые руки",
+    "price_per_night": 0,
+    "location": "Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Когтеточка домик для кошки",
+    "price_per_night": 500,
+    "location": "Воскресенск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Корелла ручные попугаи малыши и в пару",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Котенок",
+    "price_per_night": 0,
+    "location": "Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Мальчишки Пти брабансона",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Пиявки медицинские(восточные)",
+    "price_per_night": 80,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Стол для груминга складной",
+    "price_per_night": 2700,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кот в подарок из-за аллергии",
+    "price_per_night": 500,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сачок для аквариума. Магнитная щётка",
+    "price_per_night": 50,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Поводок рулетка для собак лента 5 м 30 кг",
+    "price_per_night": 450,
+    "location": "Щелково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Крыса дамбо",
+    "price_per_night": 300,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Лежанка для животных из полиротанга",
+    "price_per_night": 3500,
+    "location": "Воскресенск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Песчанка с клеткой",
+    "price_per_night": 1000,
+    "location": "Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Носочки для котенка, комплект",
+    "price_per_night": 100,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Ласковая кошечка ищет семью",
+    "price_per_night": 0,
+    "location": "Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Лабрадор",
+    "price_per_night": 1,
+    "location": "Королёв",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Стружка в мешках",
+    "price_per_night": 165,
+    "location": "Электросталь",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сухой корм для кошек Nature’s Table Курица, 650г",
+    "price_per_night": 295,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Акваферма",
+    "price_per_night": 1300,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Лежанка для собак средних пород, 87х67х20 см",
+    "price_per_night": 7000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Клетка",
+    "price_per_night": 1000,
+    "location": "Котельники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Декоративный кролик (гермелин)",
+    "price_per_night": 2000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Шиншилла мальчик 4 месяца",
+    "price_per_night": 6000,
+    "location": "Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кошки в добрые руки",
+    "price_per_night": 10,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сифон для чистки аквариума",
+    "price_per_night": 200,
+    "location": "Котельники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Фараонова собака девочка",
+    "price_per_night": 0,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Набор для содержания",
+    "price_per_night": 2500,
+    "location": "Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Повод для лошади и пелям",
+    "price_per_night": 700,
+    "location": "Королев",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Внешний фильтр для аквариума Akenori EW 302, 303A",
+    "price_per_night": 7000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сухой диетический корм для кошек Hills",
+    "price_per_night": 2000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Домик для рыбок",
+    "price_per_night": 400,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Аквариум",
+    "price_per_night": 300,
+    "location": "Котельники",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Уф лампа для аквариума chaning 5Вт, 10вт",
+    "price_per_night": 1800,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Автоматический брудер для цыплят \"sititek HD 50W\"",
+    "price_per_night": 3300,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Производство гробов",
+    "price_per_night": 15000000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Транспортные перевозки",
+    "price_per_night": 4000000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продаю 8(+)технологий+оборудование+сырье",
+    "price_per_night": 1000000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Готовый бизнес. Кафе бар. Суши шоп",
+    "price_per_night": 2350000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Готовое суши кафе. Прибыльный бизнес",
+    "price_per_night": 2353000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Бизнес на wildberries и ozon под ключ",
+    "price_per_night": 139200,
+    "location": "Зеленоград",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Прибыльная ногтевая студия",
+    "price_per_night": 480000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Юридическая AI-биржа: Лидогенерация и исполнение",
+    "price_per_night": 1500000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Вакуумный упаковщик DoCash 2240",
+    "price_per_night": 23000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Whatsminer M50 120T 28W Новый",
+    "price_per_night": 78319,
+    "location": "Реутов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Кран консольный ручной",
+    "price_per_night": 89000,
+    "location": "Лобня",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Печь порошковой покраски на газу",
+    "price_per_night": 310000,
+    "location": "Егорьевск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Медицинский Облучатель рециркулятор (Дезар 4)",
+    "price_per_night": 35880,
+    "location": "Видное",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Стол производственный (№607) W160.F2/F2.021",
+    "price_per_night": 39713,
+    "location": "Лобня",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Медицинский шкаф hilfe мд 1 1657/SG",
+    "price_per_night": 13300,
+    "location": "Жуковский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Насос для горелки Suntec AN 77 A 7255 2P",
+    "price_per_night": 17000,
+    "location": "Мытищи",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Авито — сайт объявлений",
+    "price_per_night": 0,
+    "location": "Россия",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 70,3 м², 17/25 эт.",
+    "price_per_night": 9990000,
+    "location": "Горенский б-р, 5, Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 38 м², 8/14 эт.",
+    "price_per_night": 6900000,
+    "location": "мкр-н Западный, Лунная ул., Домодедово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 29,3 м², 23/25 эт.",
+    "price_per_night": 6599000,
+    "location": "ул. Борисовка, Мытищи",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 64,6 м², 3/3 эт.",
+    "price_per_night": 11100000,
+    "location": "1-й Туровский пер., д. Горки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. апартаменты, 53,3 м², 12/15 эт.",
+    "price_per_night": 21250000,
+    "location": "ул. Ивана Франко, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 35,6 м², 8/17 эт.",
+    "price_per_night": 6550000,
+    "location": "ул. Авиаторов, д. Коробово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 32,6 м², 5/16 эт.",
+    "price_per_night": 6150100,
+    "location": "пос. Московский, дер. Саларьево, ул. Саларьевская",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 63 м², 7/9 эт.",
+    "price_per_night": 7100000,
+    "location": "ул. Иванова, Орехово-Зуево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 39,2 м², 13/16 эт.",
+    "price_per_night": 9200000,
+    "location": "ул. Александры Монаховой, пос. Коммунарка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 65 м², 5/17 эт.",
+    "price_per_night": 10800000,
+    "location": "Крымская ул., Раменское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 32,8 м², 4/5 эт.",
+    "price_per_night": 5150000,
+    "location": "пр-т Ленинского Комсомола, Видное",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 33 м², 1/4 эт.",
+    "price_per_night": 4600000,
+    "location": "ул. Рахманинова, д. Борисовка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 63,6 м², 4/12 эт.",
+    "price_per_night": 14520000,
+    "location": "ЖК «Филатов Луг», п. Московский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 28,8 м², 2/5 эт.",
+    "price_per_night": 1950000,
+    "location": "д. Кузьмино, Сергиев Посад",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 47,5 м², 2/17 эт.",
+    "price_per_night": 7600000,
+    "location": "мкр-н Саввино, Безымянная ул., Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 70,3 м², 17/25 эт.",
+    "price_per_night": 9990000,
+    "location": "Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 38 м², 8/14 эт.",
+    "price_per_night": 6900000,
+    "location": "Домодедово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 29,3 м², 23/25 эт.",
+    "price_per_night": 6599000,
+    "location": "Мытищи",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 92,4 м², 14/17 эт.",
+    "price_per_night": 12999000,
+    "location": "Дубна",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 64,6 м², 3/3 эт.",
+    "price_per_night": 11100000,
+    "location": "Видное",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. апартаменты, 53,3 м², 12/15 эт.",
+    "price_per_night": 21250000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 32,6 м², 5/16 эт.",
+    "price_per_night": 6150100,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 39,2 м², 13/16 эт.",
+    "price_per_night": 9200000,
+    "location": "Коммунарка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 60 м², 1/5 эт.",
+    "price_per_night": 6390000,
+    "location": "Одинцово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "4-к. квартира, 125,2 м², 35/36 эт.",
+    "price_per_night": 55000000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "5-к. квартира, 471,2 м², 7/8 эт.",
+    "price_per_night": 2436530000,
+    "location": "пер. Большой Толмачёвский , стр. 1,3,4,4а,12,13,14,15, вл. 5, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "4-к. квартира, 413,9 м², 13/14 эт.",
+    "price_per_night": 2323930000,
+    "location": "пер. Большой Толмачёвский, стр. 1,3,4,4а,12,13,14,15, вл. 5, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 19,2 м², 26/53 эт.",
+    "price_per_night": 13759891,
+    "location": "пр-д Серебрякова, д. 11, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 85,6 м², 11/12 эт.",
+    "price_per_night": 28304035,
+    "location": "ул. Ивана Франко, корп. 4.2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 42,1 м², 8/34 эт.",
+    "price_per_night": 20763720,
+    "location": "Ленинградское ш., стр. 7.1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 56,6 м², 14/23 эт.",
+    "price_per_night": 29451357,
+    "location": "пр-т Мира, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 164,4 м², 3/14 эт.",
+    "price_per_night": 478240000,
+    "location": "пер. Большой Толмачёвский, стр. 1,3,4,4а,12,13,14,15, вл. 5, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 51,9 м², 3/40 эт.",
+    "price_per_night": 27590040,
+    "location": "ул. Большая Тульская, д. 10, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 88 м², 3/40 эт.",
+    "price_per_night": 45760000,
+    "location": "ул. Большая Тульская, д. 10, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 101,2 м², 2/14 эт.",
+    "price_per_night": 234030000,
+    "location": "пер. Большой Толмачёвский, стр. 1,3,4,4а,12,13,14,15, вл. 5, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 20,2 м², 16/53 эт.",
+    "price_per_night": 14363927,
+    "location": "пр-д Серебрякова, д. 11, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 76,5 м², 14/24 эт.",
+    "price_per_night": 39140638,
+    "location": "пр-т Мира, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 90,7 м², 5/22 эт.",
+    "price_per_night": 37774772,
+    "location": "ю-р Чкаловский, д. 6, корп. 1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "ЖК «River House»",
+    "price_per_night": 1174000,
+    "location": "Щёлково, ул. Советская, д. 60",
+    "rating": 4.5,
+    "reviews": 120
+  },
+  {
+    "title": "Собрание клубных домов West Garden",
+    "price_per_night": 2225000,
+    "location": "Москва, пр-т Генерала Дорохова, жилые дома",
+    "rating": 4.7,
+    "reviews": 95
+  },
+  {
+    "title": "ЖК «Квартал На Воде»",
+    "price_per_night": 9120000,
+    "location": "Москва, Юго-Восточный административный округ, район Печатники",
+    "rating": 4.6,
+    "reviews": 80
+  },
+  {
+    "title": "Митинский лес",
+    "price_per_night": 7350000,
+    "location": "Москва, Митинский Лес, жилые дома",
+    "rating": 4.4,
+    "reviews": 60
+  },
+  {
+    "title": "Середневский лес",
+    "price_per_night": 4990000,
+    "location": "Московский, пос. Филимонковское, дер. Середнево",
+    "rating": 4.3,
+    "reviews": 50
+  },
+  {
+    "title": "ЖК «Прокшино»",
+    "price_per_night": 7530000,
+    "location": "Москва, п. Сосенское, дер. Николо-Хованское",
+    "rating": 4.5,
+    "reviews": 70
+  },
+  {
+    "title": "ЖК «Пригород Лесное»",
+    "price_per_night": 4000000,
+    "location": "Видное, с/п Молоковское, дер. Мисайлово",
+    "rating": 4.2,
+    "reviews": 40
+  },
+  {
+    "title": "ЖК «Космический Квартал»",
+    "price_per_night": 4810000,
+    "location": "Королев, ул. М.К. Тихонравова",
+    "rating": 4.6,
+    "reviews": 30
+  },
+  {
+    "title": "ЖК «Квартал Авиаторов»",
+    "price_per_night": 3990000,
+    "location": "Балашиха, микрорайон Авиаторов",
+    "rating": 4.1,
+    "reviews": 20
+  },
+  {
+    "title": "ЖК «Legacy»",
+    "price_per_night": 28680000,
+    "location": "Москва, пр-т Наименование, вл. 30-Б",
+    "rating": 4.8,
+    "reviews": 10
+  },
+  {
+    "title": "Квартиры от 19 000 ₽/мес",
+    "price_per_night": 19000,
+    "location": "Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартиры от 6,9 млн ₽",
+    "price_per_night": 6900000,
+    "location": "Квартал Герцена",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартиры от 6,2 млн ₽",
+    "price_per_night": 6200000,
+    "location": "Алхимово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартиры от 5 млн ₽",
+    "price_per_night": 5000000,
+    "location": "Квартал Марьино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартиры от 5,2 млн ₽",
+    "price_per_night": 5200000,
+    "location": "Остафьево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартиры от 5,7 млн ₽",
+    "price_per_night": 5700000,
+    "location": "Ольховый Квартал",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартиры от 3,7 млн ₽",
+    "price_per_night": 3700000,
+    "location": "Богдановский Лес",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 271 м² на участке 16 сот.",
+    "price_per_night": 14800000,
+    "location": "Московская область, г. О. Наро-Фоминский, д. Тимонино",
+    "rating": 4.5,
+    "reviews": 20
+  },
+  {
+    "title": "Дом 133 м² на участке 5 сот.",
+    "price_per_night": 17260000,
+    "location": "Кокошкино",
+    "rating": 4.7,
+    "reviews": 32
+  },
+  {
+    "title": "Дом 260 м² на участке 15,4 сот.",
+    "price_per_night": 21000000,
+    "location": "Софрино",
+    "rating": 4.6,
+    "reviews": 15
+  },
+  {
+    "title": "Таунхаус 216,8 м² на участке 1,8 сот.",
+    "price_per_night": 29500000,
+    "location": "Дедовск",
+    "rating": 4.8,
+    "reviews": 10
+  },
+  {
+    "title": "Дом 104 м² на участке 6 сот.",
+    "price_per_night": 6098000,
+    "location": "Раменское",
+    "rating": 4.4,
+    "reviews": 5
+  },
+  {
+    "title": "Коттедж 51 м² на участке 10 сот.",
+    "price_per_night": 4200000,
+    "location": "Можайск",
+    "rating": 4.3,
+    "reviews": 8
+  },
+  {
+    "title": "Дом 180 м² на участке 7,5 сот.",
+    "price_per_night": 13900000,
+    "location": "Софрино",
+    "rating": 4.5,
+    "reviews": 12
+  },
+  {
+    "title": "Коттедж 180 м² на участке 6 сот.",
+    "price_per_night": 25000000,
+    "location": "Удельная",
+    "rating": 4.6,
+    "reviews": 20
+  },
+  {
+    "title": "Дом 128 м² на участке 6 сот.",
+    "price_per_night": 11000000,
+    "location": "Бронницы",
+    "rating": 4.5,
+    "reviews": 18
+  },
+  {
+    "title": "Дом 326 м² на участке 17,8 сот.",
+    "price_per_night": 42000000,
+    "location": "Звенигород",
+    "rating": 4.9,
+    "reviews": 25
+  },
+  {
+    "title": "Дом 93 м² на участке 9,7 сот.",
+    "price_per_night": 13990000,
+    "location": "Истра",
+    "rating": 4.4,
+    "reviews": 7
+  },
+  {
+    "title": "Комната 24,8 м² в 4-к., 7/9 эт.",
+    "price_per_night": 4850000,
+    "location": "ул. Бехтерева, 41к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 19 м² в 3-к., 3/3 эт.",
+    "price_per_night": 2350000,
+    "location": "Железнодорожная ул., 13, Люберцы",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 12 м² в 3-к., 7/9 эт.",
+    "price_per_night": 6900000,
+    "location": "Минусинская ул., 3, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 22,1 м² в 2-к., 3/5 эт.",
+    "price_per_night": 6700000,
+    "location": "пр. Черепановых, 46А, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 13,3 м² в 2-к., 3/17 эт.",
+    "price_per_night": 3000000,
+    "location": "мкр-н Планерная, 19, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 16,4 м² в 2-к., 2/2 эт.",
+    "price_per_night": 1900000,
+    "location": "Фрязевское ш., 118, Электросталь",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 23 м² в 3-к., 8/9 эт.",
+    "price_per_night": 3650000,
+    "location": "ул. 50 лет Октября, 3, Краснозаводск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 10 м² в 2-к., 8/9 эт.",
+    "price_per_night": 4000000,
+    "location": "ул. Айвазовского, 5к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 12,5 м² в 4-к., 2/4 эт.",
+    "price_per_night": 750000,
+    "location": "ул. Ленина, 56, Озёры",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 17 м² в 3-к., 2/9 эт.",
+    "price_per_night": 4650000,
+    "location": "ул. Айвазовского, 5к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 12,5 м² в 3-к., 1/5 эт.",
+    "price_per_night": 2300000,
+    "location": "мкр-н Юбилейный, ул. К.Д. Трофимова, 17, Королёв",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 18,5 м² в 3-к., 1/5 эт.",
+    "price_per_night": 2630000,
+    "location": "Октябрьская ул., 8, Королёв",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 36,7 м² в 3-к., 3/4 эт.",
+    "price_per_night": 3000000,
+    "location": "ул. Мира, 18, пос. Реммаш",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 12,2 м² в > 9-к., 2/5 эт.",
+    "price_per_night": 1550000,
+    "location": "ул. Нахимова, 27, Фрязино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 18,9 м² в 4-к., 3/6 эт.",
+    "price_per_night": 2000000,
+    "location": "пр-т Ленина, 29, Электросталь",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 14,5 м² в 3-к., 4/5 эт.",
+    "price_per_night": 4600000,
+    "location": "Бойцовая ул., 24к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 28 м² в 3-к., 2/9 эт.",
+    "price_per_night": 2900000,
+    "location": "Томилинская ул., 7, Дзержинский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 22,5 м² в 4-к., 5/5 эт.",
+    "price_per_night": 2300000,
+    "location": "ул. Дружбы, 8, Сергиев Посад",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 16,5 м² в 2-к., 10/12 эт.",
+    "price_per_night": 3800000,
+    "location": "ул. Маковского, 10, Одинцово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 9,3 м² в 4-к., 1/3 эт.",
+    "price_per_night": 660000,
+    "location": "ул. Ленина, 23, Электрогорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 13,5 м² в 4-к., 1/2 эт.",
+    "price_per_night": 1800000,
+    "location": "ул. Энергетиков, 6, Дедовск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 8,1 м² в 3-к., 9/9 эт.",
+    "price_per_night": 3270000,
+    "location": "ул. Свободы, 97с1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 18 м² в 3-к., 15/21 эт.",
+    "price_per_night": 7800000,
+    "location": "Карамышевская наб., 22А, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 12 м² в 2-к., 2/12 эт.",
+    "price_per_night": 3690000,
+    "location": "Кавказский б-р, 29к3, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 13 м² в 4-к., 4/5 эт.",
+    "price_per_night": 1200000,
+    "location": "ул. Джона Рида, 8Б, Серпухов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 20,8 м² в 5-к., 5/8 эт.",
+    "price_per_night": 7700000,
+    "location": "Ленинградский пр-т, 10, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 13,8 м² в 2-к., 4/12 эт.",
+    "price_per_night": 5250000,
+    "location": "ул. Маршала Федоренко, 14к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 18 м² в 5-к., 5/9 эт.",
+    "price_per_night": 3000000,
+    "location": "мкр-н Тёплый Бетон, Школьная ул., 2, Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 27,3 м² в 2-к., 9/16 эт.",
+    "price_per_night": 3999990,
+    "location": "Северодвинская ул., 19, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 13,7 м² в 4-к., 5/5 эт.",
+    "price_per_night": 5900000,
+    "location": "Мантулинская ул., 16, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 17,3 м² в 3-к., 1/5 эт.",
+    "price_per_night": 4150000,
+    "location": "Большая Академическая ул., 27, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 11,7 м² в 4-к., 8/9 эт.",
+    "price_per_night": 1650000,
+    "location": "Западная ул., 1А, Электросталь",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 17,2 м² в 1-к., 1/9 эт.",
+    "price_per_night": 5850000,
+    "location": "ул. Декабристов, 36, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 29,2 м² в 3-к., 2/2 эт.",
+    "price_per_night": 3198000,
+    "location": "ул. Гарнаева, 19, Жуковский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 35 м² в 4-к., 9/9 эт.",
+    "price_per_night": 9000000,
+    "location": "Хабаровская ул., 24, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 14,2 м² в 3-к., 9/11 эт.",
+    "price_per_night": 5399000,
+    "location": "Варшавское ш., 2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 11,8 м² в 2-к., 3/9 эт.",
+    "price_per_night": 3450000,
+    "location": "Анадырский пр., 63, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 10,2 м² в 2-к., 9/9 эт.",
+    "price_per_night": 2290000,
+    "location": "Байкальская ул., 51к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 24 м² в 3-к., 1/9 эт.",
+    "price_per_night": 2950000,
+    "location": "ул. Свердлова, 57, Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 13 м² в 3-к., 2/9 эт.",
+    "price_per_night": 3400000,
+    "location": "Шипиловская ул., 38, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 17,8 м² в 3-к., 15/17 эт.",
+    "price_per_night": 3500000,
+    "location": "Воронежская ул., 46к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 24 м², 1 кровать",
+    "price_per_night": 2700,
+    "location": "Балашиха",
+    "rating": 5,
+    "reviews": 18
+  },
+  {
+    "title": "Квартира-студия, 17 м², 1 кровать",
+    "price_per_night": 3650,
+    "location": "Москва",
+    "rating": 4.6,
+    "reviews": 16
+  },
+  {
+    "title": "2-к. квартира, 39 м², 3 кровати",
+    "price_per_night": 3500,
+    "location": "Москва",
+    "rating": 4.5,
+    "reviews": 52
+  },
+  {
+    "title": "Квартира-студия, 24 м², 1 кровать",
+    "price_per_night": 2500,
+    "location": "Москва",
+    "rating": 4,
+    "reviews": 7
+  },
+  {
+    "title": "Квартира-студия, 18 м², 2 кровати",
+    "price_per_night": 2750,
+    "location": "Московская область",
+    "rating": 4.3,
+    "reviews": 15
+  },
+  {
+    "title": "Квартира-студия, 15 м², 2 кровати",
+    "price_per_night": 3900,
+    "location": "Москва",
+    "rating": 4,
+    "reviews": 12
+  },
+  {
+    "title": "1-к. квартира, 29 м², 2 кровати",
+    "price_per_night": 6000,
+    "location": "Москва",
+    "rating": 4.5,
+    "reviews": 907
+  },
+  {
+    "title": "Квартира-студия, 23 м², 1 кровать",
+    "price_per_night": 2100,
+    "location": "Москва",
+    "rating": 4.1,
+    "reviews": 17
+  },
+  {
+    "title": "Квартира-студия, 20 м², 1 кровать",
+    "price_per_night": 2300,
+    "location": "Москва",
+    "rating": 4.6,
+    "reviews": 21
+  },
+  {
+    "title": "1-к. квартира, 40 м², 2 кровати",
+    "price_per_night": 3000,
+    "location": "Люберцы",
+    "rating": 4.9,
+    "reviews": 17
+  },
+  {
+    "title": "2-к. дом, 43 м²",
+    "price_per_night": 8000,
+    "location": "Москва",
+    "rating": 4.9,
+    "reviews": 63
+  },
+  {
+    "title": "1-к. дом, 30 м²",
+    "price_per_night": 7500,
+    "location": "Зеленоград",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. дом, 48 м²",
+    "price_per_night": 6500,
+    "location": "Бронницы",
+    "rating": 5,
+    "reviews": 19
+  },
+  {
+    "title": "5-к. дом, 170 м²",
+    "price_per_night": 6000,
+    "location": "Наро-Фоминск",
+    "rating": 5,
+    "reviews": 34
+  },
+  {
+    "title": "10-к. и более дом, 710 м²",
+    "price_per_night": 39000,
+    "location": "Глебовский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. дом, 75 м²",
+    "price_per_night": 6500,
+    "location": "Деденево",
+    "rating": 5,
+    "reviews": 23
+  },
+  {
+    "title": "3-к. коттедж, 68 м²",
+    "price_per_night": 7800,
+    "location": "Глебовский",
+    "rating": 5,
+    "reviews": 9
+  },
+  {
+    "title": "3-к. дом, 150 м²",
+    "price_per_night": 6000,
+    "location": "Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. дом, 68 м²",
+    "price_per_night": 9440,
+    "location": "Ликино-Дулево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 18 м², 1/2 эт.",
+    "price_per_night": 250,
+    "location": "Фортунатовская ул., 20с2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 16 м², 1/2 эт.",
+    "price_per_night": 300,
+    "location": "ул. Боженко, 9к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 18 м², 3/4 эт.",
+    "price_per_night": 280,
+    "location": "Мажоров пер., 5, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 24 м², 1/17 эт.",
+    "price_per_night": 400,
+    "location": "Краснобогатырская ул., 79, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 26 м², 1/10 эт.",
+    "price_per_night": 2399,
+    "location": "ул. Маршала Полубоярова, 24к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 23 м², 1/2 эт.",
+    "price_per_night": 280,
+    "location": "ул. Гастелло, 4, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 14 м², 1/3 эт.",
+    "price_per_night": 150,
+    "location": "Варшавское ш., 26с4, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 20 м², 1/2 эт.",
+    "price_per_night": 250,
+    "location": "Рабочая ул., 2Ак8, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 20 м², 1/6 эт.",
+    "price_per_night": 800,
+    "location": "Поклонная ул., 4, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 20 м², 1/12 эт.",
+    "price_per_night": 600,
+    "location": "ул. Седова, 15к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 24 м², 2/3 эт.",
+    "price_per_night": 400,
+    "location": "Скобелевская ул., 1А, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 52 м², 3/9 эт.",
+    "price_per_night": 74500,
+    "location": "Заповедная ул., 15, пос. Ильинское-Усово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. апартаменты, 103 м², 5/5 эт.",
+    "price_per_night": 165000,
+    "location": "территория МЗК Москоу Кантри Клаб, Международная ул.",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. апартаменты, 49 м², 8/11 эт.",
+    "price_per_night": 105000,
+    "location": "Электролитный пр., 5Б, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 70 м², 13/15 эт.",
+    "price_per_night": 130000,
+    "location": "б-р Веласкеса, 3к3, Мосрентген",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 72 м², 12/22 эт.",
+    "price_per_night": 90000,
+    "location": "Красногорский б-р, 17, Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 85 м², 10/18 эт.",
+    "price_per_night": 300000,
+    "location": "Северный административный округ, район Беговой, жилой комплекс Слава, к3, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 55 м², 14/44 эт.",
+    "price_per_night": 150000,
+    "location": "Шелепихинская наб., 40к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 36,6 м², 16/16 эт.",
+    "price_per_night": 80000,
+    "location": "Новосущёвская ул., 9, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 46 м², 8/9 эт.",
+    "price_per_night": 60000,
+    "location": "Ставропольская ул., 56к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 70 м², 5/9 эт.",
+    "price_per_night": 120000,
+    "location": "ул. Инженера Кнорре, 7к1, д. Румянцево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 58 м², 14/17 эт.",
+    "price_per_night": 105000,
+    "location": "Очаковское ш., 5к5, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 62 м², 3/17 эт.",
+    "price_per_night": 82000,
+    "location": "ул. Бориса Пастернака, 17, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 70 м², 22/27 эт.",
+    "price_per_night": 70000,
+    "location": "Молодёжная ул., 78, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 90 м², 2/16 эт.",
+    "price_per_night": 140400,
+    "location": "Прокшинский пр-т, 9, Мосрентген",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 60,5 м², 7/8 эт.",
+    "price_per_night": 85000,
+    "location": "жилой комплекс Скандинавия, ул. Эдварда Грига, 15, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 79 м², 14/22 эт.",
+    "price_per_night": 135000,
+    "location": "Алтуфьевское ш., 77к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 45 м², 2/12 эт.",
+    "price_per_night": 27000,
+    "location": "Петровское ш., 5, Большие Вяземы",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 88 м², 7/9 эт.",
+    "price_per_night": 75000,
+    "location": "квартал № 27, 93, Апрелевка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 46,5 м², 6/17 эт.",
+    "price_per_night": 26000,
+    "location": "мкр-н Западный, Лунная ул., 25, Домодедово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 38 м², 7/8 эт.",
+    "price_per_night": 46000,
+    "location": "Романовская ул., 11, д. Глухово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 18 м², 1/2 эт.",
+    "price_per_night": 27000,
+    "location": "квартал № 45, 61с1, Московский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Коттедж 200 м² на участке 5 сот.",
+    "price_per_night": 160000,
+    "location": "Троицк",
+    "rating": 5,
+    "reviews": 10
+  },
+  {
+    "title": "Дом 150 м² на участке 12 сот.",
+    "price_per_night": 135000,
+    "location": "Калининец",
+    "rating": 4.5,
+    "reviews": 5
+  },
+  {
+    "title": "Коттедж 300 м² на участке 12 сот.",
+    "price_per_night": 200000,
+    "location": "Истра",
+    "rating": 4,
+    "reviews": 8
+  },
+  {
+    "title": "Дом 107,7 м² на участке 7,8 сот.",
+    "price_per_night": 150000,
+    "location": "Руза",
+    "rating": 4.8,
+    "reviews": 12
+  },
+  {
+    "title": "Дом 140 м² на участке 100 сот.",
+    "price_per_night": 100000,
+    "location": "Пущино",
+    "rating": 4.2,
+    "reviews": 6
+  },
+  {
+    "title": "Дом 40 м² на участке 20 сот.",
+    "price_per_night": 25000,
+    "location": "Новопетровское",
+    "rating": 4.1,
+    "reviews": 3
+  },
+  {
+    "title": "Дом 150 м² на участке 5 сот.",
+    "price_per_night": 200000,
+    "location": "Балашиха",
+    "rating": 4.5,
+    "reviews": 7
+  },
+  {
+    "title": "Дом 360 м² на участке 10 сот.",
+    "price_per_night": 250000,
+    "location": "Лобня",
+    "rating": 4.3,
+    "reviews": 9
+  },
+  {
+    "title": "Дом 600 м² на участке 10 сот.",
+    "price_per_night": 200000,
+    "location": "Воскресенское",
+    "rating": 4.6,
+    "reviews": 11
+  },
+  {
+    "title": "Коттедж 125 м² на участке 15 сот.",
+    "price_per_night": 80000,
+    "location": "Подольск",
+    "rating": 4.4,
+    "reviews": 4
+  },
+  {
+    "title": "Комната 19 м² в 1-к., 2/2 эт.",
+    "price_per_night": 30000,
+    "location": "Теннисная ул., 4, дп. Загорянский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 11 м² в 3-к., 2/12 эт.",
+    "price_per_night": 39000,
+    "location": "ул. Маршала Катукова, 4к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 6 м², 1/4 эт.",
+    "price_per_night": 49000,
+    "location": "Бауманская ул., 4, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 20 м² в 3-к., 5/5 эт.",
+    "price_per_night": 30000,
+    "location": "Дмитровское ш., 57к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 32 м² в 2-к., 2/2 эт.",
+    "price_per_night": 30000,
+    "location": "Новая ул., 16, д. Пикино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 12 м² в 3-к., 2/2 эт.",
+    "price_per_night": 15000,
+    "location": "Центральная ул., 60, Щёлково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 25 м², 3/3 эт.",
+    "price_per_night": 200,
+    "location": "Браварская ул., 46А, Щёлково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 20 м² в 2-к., 21/23 эт.",
+    "price_per_night": 9500,
+    "location": "Ярославское ш., 124, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 17 м² в 2-к., 1/12 эт.",
+    "price_per_night": 33000,
+    "location": "пр-т Куприна, 36к1, Воскресенское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 25 м² в 6-к., 1/2 эт.",
+    "price_per_night": 21500,
+    "location": "д. Дубцы",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 18 м² в 3-к., 14/17 эт.",
+    "price_per_night": 25000,
+    "location": "Паромная ул., 11/31, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 12 м², 1/4 эт.",
+    "price_per_night": 29000,
+    "location": "Бауманская ул., 4, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 16 м², 2/4 эт.",
+    "price_per_night": 19500,
+    "location": "Ярославское ш., 28, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 24 м², 5/5 эт.",
+    "price_per_night": 7500,
+    "location": "ул. Адмирала Макарова, 23к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 10 м² в 2-к., 1/9 эт.",
+    "price_per_night": 27000,
+    "location": "Профсоюзная ул., 85к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 10 м² в 4-к., 6/9 эт.",
+    "price_per_night": 30000,
+    "location": "ул. Пестеля, 4Б, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 18 м² в 5-к., 3/4 эт.",
+    "price_per_night": 20000,
+    "location": "ул. Полковника Глазунова, 6, с. Николо-Урюпино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 16 м² в 3-к., 2/5 эт.",
+    "price_per_night": 37000,
+    "location": "Оружейный пер., 13с2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Комната 21 м² в 3-к., 4/4 эт.",
+    "price_per_night": 17000,
+    "location": "1-й Советский пер., 3, Щёлково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Койко-место 22 м² в 4-к., 10/22 эт.",
+    "price_per_night": 7900,
+    "location": "Поречная ул., 27к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад, 1010 м²",
+    "price_per_night": 109000,
+    "location": "ул. Верхние Поля, 54с9, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам помещение свободного назначения, 865 м²",
+    "price_per_night": 21510000,
+    "location": "Советская пл., 4, Электрогорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Нежилые здания г. Подольск",
+    "price_per_night": 37784400,
+    "location": "Вокзальная пл., 2Б, Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Помещение свободного назначения, 102 м²",
+    "price_per_night": 24900000,
+    "location": "к931, Зеленоград",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Помещение под ваш бизнес, 163.37 м²",
+    "price_per_night": 27772900,
+    "location": "Заводская ул., 1, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Габ под сетевого арендатора / Окупаемость 1 год",
+    "price_per_night": 5000000,
+    "location": "жилой комплекс Пятницкие Луга, к2/2, д. Юрлово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Производственно-складской 3-х этажный комплекс, пл",
+    "price_per_night": 30000000,
+    "location": "Фабричная ул., 2, Волоколамск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Свободного назначения",
+    "price_per_night": 30990000,
+    "location": "ул. Сущёвский Вал, 22, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам помещение свободного назначения, 1825 м²",
+    "price_per_night": 45000000,
+    "location": "пр-т Мира, 16А, Фрязино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Производство, 2000 м²",
+    "price_per_night": 260000000,
+    "location": "Детский городок ЗИЛ, 61, Лыткарино",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Здание, 7075.2 м²",
+    "price_per_night": 335000000,
+    "location": "ул. Ворошилова, 137, Серпухов",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Свободного назначения, 227.2 м²",
+    "price_per_night": 25100000,
+    "location": "Ярославское ш., 12к2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гостиница, 2500 м²",
+    "price_per_night": 145000000,
+    "location": "29А, д. Яковлевское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад, производство и что угодно 6300 м²",
+    "price_per_night": 269550000,
+    "location": "территория Аграрная, Промышленная ул., 33, Лосино-Петровский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад, 1007 м²",
+    "price_per_night": 109000,
+    "location": "ул. Верхние Поля, 54с9, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Свободного назначения, 105 м²",
+    "price_per_night": 29995555,
+    "location": "пр-т Мира, 124к12, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад, 35.9 м²",
+    "price_per_night": 700,
+    "location": "территория базы отдыха Чайка, 1соор3, д. Тупиково",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Офис, 5904 м²",
+    "price_per_night": 3374637851,
+    "location": "Заречная ул., 2/1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Торговая площадь, 163.1 м²",
+    "price_per_night": 70000000,
+    "location": "ул. Кулакова, 9к1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Габ Яндекс лавка. Окуп 7,6 лет. Помещение 339м2",
+    "price_per_night": 76900000,
+    "location": "Ломоносовский пр-т, 23, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гап-119 млн арендной выручки",
+    "price_per_night": 950000000,
+    "location": "ул. Станиславского, 4с1, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад в Москве (7 342.9 м²)",
+    "price_per_night": 1000000000,
+    "location": "Варшавское ш., 141с34, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад под любые виды бизнеса, 197.27 м²",
+    "price_per_night": 170000,
+    "location": "Заводская ул., 1, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам торговое помещение, 96.5 м²",
+    "price_per_night": 26167279,
+    "location": "жилой комплекс Скандинавия, 25.4, Коммунарка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам торговое помещение, 107.2 м²",
+    "price_per_night": 27925472,
+    "location": "жилой комплекс Скандинавия, 18.2.4, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам складское помещение, 1800 м²",
+    "price_per_night": 194000000,
+    "location": "Белокаменное ш., 17, Видное",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Свободного назначения, 573 м²",
+    "price_per_night": 4900000,
+    "location": "Ямская ул., 37А1, Волоколамск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам помещение свободного назначения, 151.3 м²",
+    "price_per_night": 22000001,
+    "location": "Школьная ул., 1к2, рп. Октябрьский",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склады продажа",
+    "price_per_night": 115000,
+    "location": "территория Промзона Житнево, 27, Домодедово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам торговое помещение, 92.1 м²",
+    "price_per_night": 21395255,
+    "location": "жилой комплекс Скандинавия, к27.4, Коммунарка",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам торговое помещение, 36.2 м²",
+    "price_per_night": 14699663,
+    "location": "жилой комплекс Скандинавия, 18.1.2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Продам здание, 2258 м²",
+    "price_per_night": 290000000,
+    "location": "Переведеновский пер., 13с7, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Свободного назначения, 1480 м²",
+    "price_per_night": 395000000,
+    "location": "Офицерская ул., 1, Ватутинки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склады тёплые 15М.кв",
+    "price_per_night": 18000,
+    "location": "Одинцово, Привокзальная ул., 12",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Сдам склад в аренду, от 2 до 8 кв.м",
+    "price_per_night": 3000,
+    "location": "Москва, Походный пр., 1",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Аренда контейнера под склад",
+    "price_per_night": 10000,
+    "location": "рп. Горки Ленинские, промзона Технопарк, Восточная ул., вл22",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад, 15 м² Аренда контейнера 20 фут",
+    "price_per_night": 9900,
+    "location": "Одинцово, Южная ул., с1",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Аренда склада/Снять склад",
+    "price_per_night": 10400,
+    "location": "Одинцово, Красногорское ш., 16А",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Помещение свободного назначения. 40 кв.м",
+    "price_per_night": 10000,
+    "location": "Москва, Кожевническая ул., 5",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Аренда склада/Снять склад",
+    "price_per_night": 10400,
+    "location": "Одинцово, Красногорское ш., 16А",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Аренда контейнера / Морской контейнер",
+    "price_per_night": 6455,
+    "location": "Москва, Беловежская ул., 4В",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад, 30 м² / Морской контейнер",
+    "price_per_night": 8950,
+    "location": "Москва, Алтуфьевское ш., вл2",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Склад, 656.8 м²",
+    "price_per_night": 1095000,
+    "location": "Москва, ш. Энтузиастов, 31с41",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 25 м² (Таиланд)",
+    "price_per_night": 5124000,
+    "location": "Паттайя (Пхаттхая)",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 85 м² (Кипр)",
+    "price_per_night": 13806312,
+    "location": "Искеле",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 254 м² на участке 372 м² (Таиланд)",
+    "price_per_night": 32246451,
+    "location": "Пхукет",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Магазин/Торговая площадь 18,3 м² (Белоруссия)",
+    "price_per_night": 3301070,
+    "location": "Минск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 186 м² (Таиланд)",
+    "price_per_night": 15486552,
+    "location": "Пхукет",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 736 м² (ОАЭ)",
+    "price_per_night": 58761333,
+    "location": "Дубай",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 42 м² (Таиланд)",
+    "price_per_night": 7323345,
+    "location": "Пхукет",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 113 м² (ОАЭ)",
+    "price_per_night": 42268191,
+    "location": "Дубай",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 55,4 м² (Грузия)",
+    "price_per_night": 5558001,
+    "location": "Батуми",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 57 м² (Таиланд)",
+    "price_per_night": 10558179,
+    "location": "Пхукет",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира, 40 м² (Таиланд)",
+    "price_per_night": 9500000,
+    "location": "Паттайя (Пхаттхая)",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира, 21,5 м² (Таиланд)",
+    "price_per_night": 6691868,
+    "location": "Хуахин",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира, 25 м² (Абхазия)",
+    "price_per_night": 1000,
+    "location": "Гагры",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гостиница (Абхазия)",
+    "price_per_night": 1999,
+    "location": "Гагры",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 55 м² (Абхазия)",
+    "price_per_night": 5000,
+    "location": "Сухуми",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 55 м² (Таиланд)",
+    "price_per_night": 7372,
+    "location": "Паттайя (Пхаттхая)",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 190 м² (Турция)",
+    "price_per_night": 9028,
+    "location": "Олюдениз",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 25 м² (Грузия)",
+    "price_per_night": 1500,
+    "location": "Батуми",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "9-к. квартира, 400 м² (Абхазия)",
+    "price_per_night": 4000,
+    "location": "Гагры",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "1-к. квартира, 24 м² (Абхазия)",
+    "price_per_night": 12000,
+    "location": "Гячрыпш",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 150 м² (Таиланд)",
+    "price_per_night": 530784,
+    "location": "Пхукет",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 18 м² (ОАЭ)",
+    "price_per_night": 5502,
+    "location": "Аджман",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 62 м² (Грузия)",
+    "price_per_night": 40000,
+    "location": "Батуми",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 30 м² (Белоруссия)",
+    "price_per_night": 2000,
+    "location": "Минск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "3-к. квартира, 49 м² (Белоруссия)",
+    "price_per_night": 5000,
+    "location": "Минск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 60 м² (Турция)",
+    "price_per_night": 4249,
+    "location": "Анталья",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "4-к. квартира, 80 м² (Белоруссия)",
+    "price_per_night": 4900,
+    "location": "Минск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 46 м² (Белоруссия)",
+    "price_per_night": 5900,
+    "location": "Минск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "2-к. квартира, 40 м² (Турция)",
+    "price_per_night": 30000,
+    "location": "Аланья",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Дом 65 м² на участке 800 м² (Абхазия)",
+    "price_per_night": 15000,
+    "location": "Гудаута",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Квартира-студия, 41 м² (Египет)",
+    "price_per_night": 1890,
+    "location": "Хургада",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 1 сот. (ИЖС)",
+    "price_per_night": 150000,
+    "location": "коттеджный пос. Усадьба Глебово, Егорьевское шоссе, 40 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6,3 сот. (СНТ, ДНП)",
+    "price_per_night": 978120,
+    "location": "коттеджный пос. Заболотье Вилладж, Рязанское шоссе, 27 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 10 сот. (ИЖС)",
+    "price_per_night": 100000,
+    "location": "д. Семёновское, Симферопольское шоссе, 87 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 5 сот. (СНТ, ДНП)",
+    "price_per_night": 900000,
+    "location": "коттеджный пос. Генеральские дачи, Рязанское шоссе, 26 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6 сот. (ИЖС)",
+    "price_per_night": 300000,
+    "location": "с. Татариново, Новокаширское шоссе, 43 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 8 сот. (ИЖС)",
+    "price_per_night": 420000,
+    "location": "д. Акулово, Симферопольское шоссе, 71 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 10 сот. (ИЖС)",
+    "price_per_night": 100000,
+    "location": "д. Большое Грызлово, Симферопольское шоссе, 86 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6 сот. (ИЖС)",
+    "price_per_night": 300000,
+    "location": "с. Попово, Симферопольское шоссе, 56 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 10 сот. (ИЖС)",
+    "price_per_night": 100000,
+    "location": "с. Большое Хорошово, Новокаширское шоссе, 84 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 7 сот. (СНТ, ДНП)",
+    "price_per_night": 1890000,
+    "location": "коттеджный пос. Генеральские дачи, Рязанское шоссе, 26 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 12,5 сот. (ИЖС)",
+    "price_per_night": 1199999,
+    "location": "д. Шугарово, Новокаширское шоссе, 60 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6 сот. (ИЖС)",
+    "price_per_night": 300000,
+    "location": "д. Гридюкино, Новокаширское шоссе, 54 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6 сот. (ИЖС)",
+    "price_per_night": 600000,
+    "location": "с. Успенское, Новокаширское шоссе, 35 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6,1 сот. (ИЖС)",
+    "price_per_night": 897544,
+    "location": "пос. Любучаны, Симферопольское шоссе, 38 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 10 сот. (ИЖС)",
+    "price_per_night": 100000,
+    "location": "д. Тарасково, Каширское шоссе, 87 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6 сот. (ИЖС)",
+    "price_per_night": 600000,
+    "location": "Домодедово, Новокаширское шоссе, 29 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 8 сот. (ИЖС)",
+    "price_per_night": 400000,
+    "location": "СНТ Лидер, Киевское шоссе, 59 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 15 сот. (ИЖС)",
+    "price_per_night": 1800000,
+    "location": "д. Коняшино, Егорьевское шоссе, 37 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 6,8 сот. (ИЖС)",
+    "price_per_night": 6750000,
+    "location": "д. Селятино, Киевское шоссе, 35 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 25 сот. (ИЖС)",
+    "price_per_night": 627000,
+    "location": "Пущино, Симферопольское шоссе, 82 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 30 сот. (промназначения)",
+    "price_per_night": 9000000,
+    "location": "Михнево, Новокаширское шоссе, 57 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Участок 8,3 сот. (ИЖС)",
+    "price_per_night": 6450000,
+    "location": "д. Шелепаново, Ленинградское шоссе, 33 км",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, > 30 м²",
+    "price_per_night": 1000000,
+    "location": "Озёрная ул., с. Онуфриево",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж",
+    "price_per_night": 1800,
+    "location": "ул. Ленина, Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 15 м²",
+    "price_per_night": 9000,
+    "location": "Заводская ул., 2Ас13, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 10 м²",
+    "price_per_night": 10000,
+    "location": "Краснознаменская ул., Раменское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 15 м²",
+    "price_per_night": 10400,
+    "location": "Красногорское ш., 16А, Одинцово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 26 м²",
+    "price_per_night": 11000,
+    "location": "мкр-н Львовский, Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 18 м²",
+    "price_per_night": 17000,
+    "location": "ул. Калинина, 9с1, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Машиноместо, 15 м²",
+    "price_per_night": 270000,
+    "location": "ул. Крылатские Холмы, 30к7, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Машиноместо, 13 м²",
+    "price_per_night": 15000,
+    "location": "Ленская ул., 8, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 10 м²",
+    "price_per_night": 4200,
+    "location": "Красногорское ш., 16А, Одинцово",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 30 м²",
+    "price_per_night": 22000,
+    "location": "ул. Терешковой, 18с4, Балашиха",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 17 м²",
+    "price_per_night": 12000,
+    "location": "Комсомольская ул., 82/54, Подольск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Машиноместо, 13 м²",
+    "price_per_night": 285000,
+    "location": "Чечёрский пр., 132, Воскресенское",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Машиноместо, 14 м²",
+    "price_per_night": 1089000,
+    "location": "ул. Народного Ополчения, 9, Красногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 21 м²",
+    "price_per_night": 7500,
+    "location": "Солнечногорск",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 30 м²",
+    "price_per_night": 4400000,
+    "location": "Ленинский пр-т, 1к1, Химки",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Машиноместо, 10 м²",
+    "price_per_night": 870000,
+    "location": "3-я Мытищинская ул., 3к2с2, Москва",
+    "rating": 0,
+    "reviews": 0
+  },
+  {
+    "title": "Гараж, 20 м²",
+    "price_per_night": 3200000,
+    "location": "ул. Академика Ильюшина, 11, Москва",
+    "rating": 0,
+    "reviews": 0
+  }
+]
