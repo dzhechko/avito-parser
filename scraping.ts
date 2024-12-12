@@ -96,14 +96,61 @@ export async function scrapeAvito() {
         .array(
           z.object({
             title: z.string(),
-            price: z.number(),
+            price: z.preprocess(
+              // Конвертируем строку цены в число
+              (val) => {
+                if (typeof val === 'number') return val;
+                if (typeof val === 'string') {
+                  // Удаляем все нечисловые символы кроме точки
+                  return Number(val.replace(/[^0-9.]/g, ''));
+                }
+                return null;
+              },
+              z.number()
+            ),
             location: z.string(),
-            area: z.number().optional(),
-            rooms: z.number().optional(),
+            area: z.preprocess(
+              (val) => {
+                if (typeof val === 'number') return val;
+                if (typeof val === 'string') {
+                  return Number(val.replace(/[^0-9.]/g, ''));
+                }
+                return null;
+              },
+              z.number().optional()
+            ),
+            rooms: z.preprocess(
+              (val) => {
+                if (typeof val === 'number') return val;
+                if (typeof val === 'string') {
+                  return Number(val.replace(/[^0-9]/g, ''));
+                }
+                return null;
+              },
+              z.number().optional()
+            ),
             floor: z.string().optional(),
             description: z.string().optional(),
-            seller_rating: z.number().optional(),
-            views: z.number().optional(),
+            seller_rating: z.preprocess(
+              (val) => {
+                if (typeof val === 'number') return val;
+                if (typeof val === 'string') {
+                  return Number(val.replace(/[^0-9.]/g, ''));
+                }
+                return null;
+              },
+              z.number().optional()
+            ),
+            views: z.preprocess(
+              (val) => {
+                if (typeof val === 'number') return val;
+                if (typeof val === 'string') {
+                  return Number(val.replace(/[^0-9]/g, ''));
+                }
+                return null;
+              },
+              z.number().optional()
+            ),
           })
         )
         .describe('Объявления недвижимости на Avito'),
@@ -143,7 +190,7 @@ export async function scrapeAvito() {
         const pageListings = await scrapeListings(paginationLinks[i], i);
         allListings.push(...pageListings);
         
-        // Сохр��няем промежуточные результаты
+        // Сохраняем промежуточные результаты
         fs.writeFileSync(
           'avito_listings.json',
           JSON.stringify(allListings, null, 2)
