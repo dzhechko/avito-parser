@@ -96,13 +96,17 @@ export async function scrapeAvito() {
         .array(
           z.object({
             title: z.string(),
-            price_per_night: z.number(),
+            price: z.number(),
             location: z.string(),
-            rating: z.number().optional(),
-            reviews: z.number().optional(),
+            area: z.number().optional(),
+            rooms: z.number().optional(),
+            floor: z.string().optional(),
+            description: z.string().optional(),
+            seller_rating: z.number().optional(),
+            views: z.number().optional(),
           })
         )
-        .describe('Avito real estate listings in Moscow'),
+        .describe('Объявления недвижимости на Avito'),
     })
 
     const params = {
@@ -139,7 +143,7 @@ export async function scrapeAvito() {
         const pageListings = await scrapeListings(paginationLinks[i], i);
         allListings.push(...pageListings);
         
-        // Сохраняем промежуточные результаты
+        // Сохр��няем промежуточные результаты
         fs.writeFileSync(
           'avito_listings.json',
           JSON.stringify(allListings, null, 2)

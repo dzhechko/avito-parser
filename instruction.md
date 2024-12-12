@@ -10,20 +10,33 @@ The project is a data scraping and analysis system designed to collect and visua
 
 **Component**: Web Scraping Engine (scraping.ts)
 **Technology**: Firecrawl API
-**Purpose**: Automated collection of Avito listing data
+**Purpose**: Automated collection of real estate data
 
-Process Flow:
-- Initialize Firecrawl with API credentials
-- Target initial URL (Moscow Avito listings)
-- Extract pagination links
-- For each page:
-  - Scrape listing details including:
-    - Title
-    - Price per night
-    - Location
-    - Rating (if available)
-    - Number of reviews (if available)
-- Store collected data in JSON format
+#### Data Schema:
+```typescript
+interface ListingData {
+  title: string;        // Listing title
+  price: number;        // Property price
+  location: string;     // Location
+  area?: number;        // Property area
+  rooms?: number;       // Number of rooms
+  floor?: string;       // Floor
+  description?: string; // Description
+  seller_rating?: number; // Seller rating
+  views?: number;       // View count
+}
+```
+
+#### Process Flow:
+1. Initialize Firecrawl with API credentials
+2. Target initial URL (Avito real estate listings)
+3. Extract pagination links
+4. For each page:
+   - Extract listing details according to schema
+   - Apply smart delays between requests
+   - Handle rate limiting
+   - Save intermediate results
+5. Store collected data in JSON format
 
 ### 2.2. Data Processing Module
 
@@ -31,14 +44,40 @@ Process Flow:
 **Technology**: E2B Code Interpreter SDK
 **Purpose**: Data analysis and visualization
 
-Process Flow:
-1. Load collected data from JSON file
-2. Accept analysis parameters:
-   - Target parameter for analysis (e.g., price, rating)
-   - Visualization settings (bins, title)
-   - Statistical requirements
-3. Process data through Python environment
-4. Generate statistical analysis
+#### Analysis Parameters:
+```typescript
+interface AnalysisParams {
+  parameter: string;   // Parameter to analyze
+  title?: string;      // Graph title
+  bins?: number;       // Histogram bins
+}
+```
+
+#### Available Analysis Types:
+1. **Price Analysis:**
+   - Distribution of property prices
+   - Basic statistics (mean, median, mode)
+   - 50 bins for detailed distribution
+
+2. **Area Analysis:**
+   - Property size distribution
+   - Statistical metrics
+   - 30 bins for visualization
+
+3. **Seller Rating Analysis:**
+   - Rating distribution
+   - 20 bins for clear representation
+
+4. **Additional Metrics:**
+   - Room count distribution
+   - View count analysis
+   - Location-based grouping
+
+#### Process Flow:
+1. Load collected data
+2. Select analysis parameters
+3. Generate Python code for analysis
+4. Execute in sandbox environment
 5. Create visualizations
 6. Export results
 
@@ -184,27 +223,42 @@ For each analyzed parameter:
 ## 7. Output Specifications
 
 ### 7.1. Data Storage
-- JSON format
-- UTF-8 encoding
-- Structured listing data
+JSON format with the following structure:
+```json
+{
+  "listings": [
+    {
+      "title": "string",
+      "price": "number",
+      "location": "string",
+      "area": "number?",
+      "rooms": "number?",
+      "floor": "string?",
+      "description": "string?",
+      "seller_rating": "number?",
+      "views": "number?"
+    }
+  ]
+}
+```
 
 ### 7.2. Visualizations
 Output requirements per parameter:
-1. Histogram plot:
-   - Clear title indicating parameter
-   - Labeled axes
-   - Appropriate bin size
-   - Color coding
+1. **Price Distribution:**
+   - Histogram with 50 bins
+   - Price range on X-axis
+   - Frequency on Y-axis
+   - Mean and median markers
 
-2. Statistical summary:
-   - Basic statistics
-   - Data quality metrics
-   - Sample size
+2. **Area Distribution:**
+   - Histogram with 30 bins
+   - Area range on X-axis
+   - Clear bin boundaries
 
-3. File naming convention:
-   ```
-   avito_{parameter}_distribution.png
-   ```
+3. **Rating Distribution:**
+   - Histogram with 20 bins
+   - Rating scale (0-5)
+   - Frequency counts
 
 ## 8. Performance Considerations
 

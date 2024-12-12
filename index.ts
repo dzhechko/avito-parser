@@ -100,7 +100,7 @@ async function run() {
   // Пример анализа разных параметров
   const analysisParams: AnalysisParams[] = [
     {
-      parameter: 'price_per_night',
+      parameter: 'price',
       title: 'Распределение цен на недвижимость',
       bins: 50
     },
@@ -108,6 +108,11 @@ async function run() {
       parameter: 'rating',
       title: 'Распределение рейтингов',
       bins: 20
+    },
+    {
+      parameter: 'area',
+      title: 'Распределение площади объектов',
+      bins: 30
     }
   ]
 
