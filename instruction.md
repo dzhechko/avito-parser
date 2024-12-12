@@ -222,43 +222,108 @@ For each analyzed parameter:
 
 ## 7. Output Specifications
 
-### 7.1. Data Storage
-JSON format with the following structure:
-```json
-{
-  "listings": [
-    {
-      "title": "string",
-      "price": "number",
-      "location": "string",
-      "area": "number?",
-      "rooms": "number?",
-      "floor": "string?",
-      "description": "string?",
-      "seller_rating": "number?",
-      "views": "number?"
-    }
-  ]
-}
-```
+### 7.1. Data Processing and Validation
 
-### 7.2. Visualizations
-Output requirements per parameter:
-1. **Price Distribution:**
-   - Histogram with 50 bins
-   - Price range on X-axis
-   - Frequency on Y-axis
-   - Mean and median markers
+1. **Data Extraction:**
+   ```python
+   def extract_number(x):
+       if pd.isna(x):
+           return None
+       if isinstance(x, (int, float)):
+           return float(x)
+       matches = re.findall(r'\d+(?:[,.]\d+)?', str(x))
+       return float(matches[0].replace(',', '.')) if matches else None
+   ```
 
-2. **Area Distribution:**
-   - Histogram with 30 bins
-   - Area range on X-axis
-   - Clear bin boundaries
+2. **Area Extraction:**
+   - Поиск в заголовках с помощью регулярных выражений
+   - Обработка различных форматов записи (точка/запятая)
+   - Валидация и конвертация значений
 
-3. **Rating Distribution:**
-   - Histogram with 20 bins
-   - Rating scale (0-5)
-   - Frequency counts
+3. **Outlier Removal:**
+   ```python
+   Q1 = data.quantile(0.25)
+   Q3 = data.quantile(0.75)
+   IQR = Q3 - Q1
+   lower_bound = Q1 - 1.5 * IQR
+   upper_bound = Q3 + 1.5 * IQR
+   clean_data = data[(data >= lower_bound) & (data <= upper_bound)]
+   ```
+
+### 7.2. Visualization Specifications
+
+1. **График распределения цен:**
+   ```python
+   plt.figure(figsize=(12, 6), facecolor='white')
+   plt.hist(data, bins=30, color='#2196F3', edgecolor='black', alpha=0.7)
+   plt.grid(True, alpha=0.3, linestyle='--', color='gray')
+   ```
+
+2. **Форматирование осей:**
+   ```python
+   def format_axis_label(x, include_rub=False):
+       if x >= 1000000:
+           return f"{x/1000000:.1f}M{'₽' if include_rub else ''}"
+       elif x >= 1000:
+           return f"{x/1000:.0f}K{'₽' if include_rub else ''}"
+       return f"{x:.0f}{'₽' if include_rub else ''}"
+   ```
+
+3. **Статистические показатели:**
+   - Линии среднего и медианы
+   - Легенда с форматированными значениями
+   - Вывод базовой статистики в консоль
+
+4. **Настройки оформления:**
+   ```python
+   plt.title("Заголовок", pad=20, fontsize=14, fontweight='bold')
+   plt.xlabel("Метка оси X", labelpad=10)
+   plt.ylabel("Количество объявлений", labelpad=10)
+   plt.legend(frameon=True, facecolor='white', shadow=True)
+   ```
+
+### 7.3. Консольный вывод
+
+1. **Отладочная информация:**
+   ```python
+   print("Debug: Raw data sample:")
+   print(df.head())
+   print("Columns available:", df.columns.tolist())
+   ```
+
+2. **Статистика:**
+   ```python
+   print(f"Статистика для {parameter}:")
+   print(f"Количество значений: {len(data)}")
+   print(f"Среднее: {mean:.2f}")
+   print(f"Медиана: {median:.2f}")
+   print(f"Мин.: {min:.2f}")
+   print(f"Макс.: {max:.2f}")
+   ```
+
+3. **Процесс обработки:**
+   ```python
+   print(f"Debug: Extracted {result} from {input}")
+   print(f"Found {valid_count} valid values")
+   ```
+
+### 7.4. Файловый вывод
+
+1. **Именование файлов:**
+   ```typescript
+   const filename = `avito_${parameter}_distribution.png`
+   ```
+
+2. **Качество изображения:**
+   - Размер: 12x6 дюймов
+   - Белый фон
+   - Чёткие границы элементов
+   - Оптимальная прозрачность
+
+3. **Сохранение результатов:**
+   - Автоматическое создание файлов
+   - Проверка существования директории
+   - Обработка ошибок записи
 
 ## 8. Performance Considerations
 
